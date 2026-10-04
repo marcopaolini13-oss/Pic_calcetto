@@ -1,0 +1,372 @@
+{
+  "logos": {
+    "energetici_fc": {
+      "path": "assets/logos/energetici_fc/logo.jpeg",
+      "source": "assets/logos/2. LOGHI/ENERGETICI FC.jpeg",
+      "sha256": "f7dde5c8aa72d7563d8fc2548890d9ea75e74bbd3f83a00c51bfd02314f19e9c",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 255297
+    },
+    "renewables": {
+      "path": "assets/logos/renewables/logo.jpeg",
+      "source": "assets/logos/2. LOGHI/RENEWABLES.jpeg",
+      "sha256": "9f3fa4651b91443f1714a1813f5674fc988eb53e1a77640b5d3501cbf3a7e516",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 246856
+    },
+    "energentus": {
+      "path": "assets/logos/energentus/logo.png",
+      "source": "assets/logos/2. LOGHI/ENERGENTUS.png",
+      "sha256": "82368d8b1a6365cc966110fd7b7df963897cbe6a8984a6984f84b3ac3d52c85b",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 826597
+    },
+    "rdm_fc": {
+      "path": "assets/logos/rdm_fc/logo.jpeg",
+      "source": "assets/logos/2. LOGHI/RDM FC.jpeg",
+      "sha256": "f72558dc1693bfb09cb93cf3562b8d3920e45b0810f8e4b515be65e459b0009c",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 200167
+    },
+    "rdm_world": {
+      "path": "assets/logos/rdm_world/logo.jpeg",
+      "source": "assets/logos/2. LOGHI/RDM WORLD.jpeg",
+      "sha256": "2c071ae6727298b8923bc4b416eeb1061b2f39a61e73d0ba4a045d836c3838ab",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 229122
+    },
+    "rdm_internazionale": {
+      "path": "assets/logos/rdm_internazionale/logo.jpeg",
+      "source": "assets/logos/2. LOGHI/RDM INTER.jpeg",
+      "sha256": "1a7554db44bfb9bd9ee2f2242c9ff10dcf0e8f80dfad651f47183de9c63a1ffd",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 160815
+    }
+  },
+  "kits": {
+    "energetici_fc": [
+      {
+        "type": "front",
+        "path": "assets/kits/energetici_fc/front.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 1/6a5e96971771f5245d4a2c1714a67bee51720102_10_2(1).jpg",
+        "sha256": "0b4247b262ac53b31c26d1cf5ad1c171d775e5df070ca27989f5d7b4cccedae6",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 56815
+      },
+      {
+        "type": "back",
+        "path": "assets/kits/energetici_fc/back.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 1/78b6e6723fe7d5659f8ee20f9604093351720102_02_2(1).jpg",
+        "sha256": "ea2012d2c3f8c5c5b880317c67a988a0374286cfbd19e3489db87a66b3ee6985",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 42520
+      },
+      {
+        "type": "three_quarter",
+        "path": "assets/kits/energetici_fc/three_quarter.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 1/4e8322a371118473083a7ecd2068d96151720102_2(1).jpg",
+        "sha256": "38c1af5119a315d00045a5aae3f056196b58e097c3faf0d165d0fd8bafe12354",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 57392
+      },
+      {
+        "type": "detail",
+        "path": "assets/kits/energetici_fc/detail.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 1/71da61983d6ba8291d291311e292280251720102_03_2(1).jpg",
+        "sha256": "3a967b98f0555c8b36d6f9abfe296905d895001b8b4a264d7a15d2f07dcceb87",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 132424
+      },
+      {
+        "type": "detail_02",
+        "path": "assets/kits/energetici_fc/detail_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 1/1ea6800fcffac23f629321fc47cd400d51720102_04_2(1).jpg",
+        "sha256": "a6387c8314d3cfe6354853d6ea94da1ba0d94dd8b21f45ee49a6de4a30689c3d",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 173220
+      },
+      {
+        "type": "detail_03",
+        "path": "assets/kits/energetici_fc/detail_03.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 1/2d20490d204300389fc198da4a67720c51720102_05_2(1).jpg",
+        "sha256": "656289626278257b205379b8d62588f249067dcafc75826c1e5a354efa566f0a",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 275306
+      },
+      {
+        "type": "back_02",
+        "path": "assets/kits/energetici_fc/back_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 1/a47774de4a3dc96b1aff1f739f3d30d551720102_11_2(1).jpg",
+        "sha256": "38b0b6d9eb19a1c479c34932445c6287cc0abe57fb6276da4cf34d9292cc9175",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 26127
+      }
+    ],
+    "renewables": [
+      {
+        "type": "front",
+        "path": "assets/kits/renewables/front.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 2/dfc876660d23b7ce630863e836206ed6800002850201_10(1).jpg",
+        "sha256": "32c0e606d2195641d745b2691c0fff3c037df93b735ab3782e8dffb05981934e",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 110104
+      },
+      {
+        "type": "back",
+        "path": "assets/kits/renewables/back.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 2/584673f4d094d9648fa674ef9621a2cd800002850201_02(1).jpg",
+        "sha256": "b84c730da6580ff1a04d959825c86db5bd35fb4f7d40cd7b0cee7b4bb20dd555",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 101919
+      },
+      {
+        "type": "three_quarter",
+        "path": "assets/kits/renewables/three_quarter.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 2/3c695177ea875f2987a84c30825ed087800002850201(1).jpg",
+        "sha256": "b0861c18c5cfa2a85ab18e88649c44514f2a83cf07f62b0007df6c9e6e3603de",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 102993
+      },
+      {
+        "type": "detail",
+        "path": "assets/kits/renewables/detail.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 2/9fd63e7f7800dc208ad44c2e90e27a70800002850201_03(1).jpg",
+        "sha256": "493d0c6690453ae5cd33d06255d8d03cda84cbaf113d4badc6684a2db9878e86",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 231241
+      },
+      {
+        "type": "back_02",
+        "path": "assets/kits/renewables/back_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 2/aa9693daf6e0f01224dd393ed557996a800002850201_11(1).jpg",
+        "sha256": "b64588fe891e815c85173061982c1bbf1b0c09af3b7487899569c35c086bd9c1",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 114124
+      }
+    ],
+    "energentus": [
+      {
+        "type": "front",
+        "path": "assets/kits/energentus/front.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 3/46130109_10_1(1).jpg",
+        "sha256": "f2173adad9b9b4cf340e4844c1ac4bf10f3b680cac9ec66417865db01f955c85",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 105293
+      },
+      {
+        "type": "back",
+        "path": "assets/kits/energentus/back.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 3/46130109_02_1(1).jpg",
+        "sha256": "a4757e0eaa335f46f1f0ab5279ba71e0ad23599550165b5d8db093dd39024e4a",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 67657
+      },
+      {
+        "type": "three_quarter",
+        "path": "assets/kits/energentus/three_quarter.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 3/46130109(1).jpg",
+        "sha256": "57616a9cd9d66e066d9d8161a69beb00ffdf6baa177595ecfd568153fa9620d1",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 129216
+      },
+      {
+        "type": "detail",
+        "path": "assets/kits/energentus/detail.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 3/46130109_03_1(1).jpg",
+        "sha256": "98d71f44324300c54a19d5b955719bf90b3678ed55853315a444ce0de273ca32",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 227092
+      },
+      {
+        "type": "back_02",
+        "path": "assets/kits/energentus/back_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/EN 3/46130109_11_1(1).jpg",
+        "sha256": "ca7ad45c9e2258d1c024c5a516d748271839c647cdc8b1db14387e18d5f82fdf",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 82171
+      }
+    ],
+    "rdm_fc": [
+      {
+        "type": "front",
+        "path": "assets/kits/rdm_fc/front.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 1/0781e9654f35fb5e08cd2dc93115554051720710_10_2(1).jpg",
+        "sha256": "22dee6406e0482c16eba0e3207cc7dad794d2d053070f0a0f9488251671d3792",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 89929
+      },
+      {
+        "type": "back",
+        "path": "assets/kits/rdm_fc/back.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 1/397f4fe7a3d54fe83de1b4b921514a4b51720710_02_2(1).jpg",
+        "sha256": "9063406ce106e9186bf5a24181e94ceb8031b944fe87789663b7906147148bc2",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 97686
+      },
+      {
+        "type": "three_quarter",
+        "path": "assets/kits/rdm_fc/three_quarter.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 1/89e1ffb2796ed3fdd307bffb48c688b151720710_2(1).jpg",
+        "sha256": "2ac76ceee890bd87f404f532a4b8a2c59cc2de5e0e3934c85a4ffab0d82e2853",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 92208
+      },
+      {
+        "type": "detail",
+        "path": "assets/kits/rdm_fc/detail.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 1/3436e8e13424fe4ad6fa5d0ee427c4fd51720710_03_2(1).jpg",
+        "sha256": "95303cd87a6926ea8e8ea38b7c0a0493008a4d7e9311224e94a8ed977d7fdf35",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 191211
+      },
+      {
+        "type": "detail_02",
+        "path": "assets/kits/rdm_fc/detail_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 1/6e44ab0a0739ad0367a45e002658ba7651720710_04_2(1).jpg",
+        "sha256": "4a9e59c78c5d4d8bd4fe3caf34b61513e01248ab43b4cd7c4ec469462c12c1ef",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 177489
+      },
+      {
+        "type": "detail_03",
+        "path": "assets/kits/rdm_fc/detail_03.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 1/263dcb42a51eb4aba5f451e8954c721f51720710_05_2(1).jpg",
+        "sha256": "b0121e59e394d5ffc8267f51f8789ac9c775291ff13a802b471fba27f2d335bd",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 271189
+      },
+      {
+        "type": "back_02",
+        "path": "assets/kits/rdm_fc/back_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 1/5e87d9f2dc847cfde18fba7b43ece73151720710_11_2(1).jpg",
+        "sha256": "9c34bbf73da2e506b256a6c9b6d2cd0f8341a6179a8083cc2d346d4ed6327daa",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 92830
+      }
+    ],
+    "rdm_world": [
+      {
+        "type": "front",
+        "path": "assets/kits/rdm_world/front.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 2/006b6193ed6b8bd10ef9616d6a8a2478800002850301_10(1).jpg",
+        "sha256": "0add2b4df0bc83ba64a751e580c0aac5062c5f90a319d41b04454180660e95b3",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 112927
+      },
+      {
+        "type": "back",
+        "path": "assets/kits/rdm_world/back.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 2/9aba9388a1bcdb42b9b3005c9a0f7b22800002850301_02(1).jpg",
+        "sha256": "f7d85d02cad595f2471bfb2dea845ac2fdb7b91aaa5b7dad07a94447be5e441a",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 73551
+      },
+      {
+        "type": "three_quarter",
+        "path": "assets/kits/rdm_world/three_quarter.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 2/5db939e3013f6ae7025d187dd8dd3830800002850301(1).jpg",
+        "sha256": "f656fa0670832e9dd619d3ef602a8e080bc0fd387800a819abbb731bb02204d1",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 84256
+      },
+      {
+        "type": "detail",
+        "path": "assets/kits/rdm_world/detail.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 2/bc3f656e8063106b0264f696b6eeda32800002850301_03(1).jpg",
+        "sha256": "814fa3403824be05cb25d4b270f19f58c6331f1742991c11df8e082d12b7519e",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 184072
+      },
+      {
+        "type": "back_02",
+        "path": "assets/kits/rdm_world/back_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 2/9e6a567f09b93cf28931bcdd7d148378800002850301_11(1).jpg",
+        "sha256": "b17d2eb23d49b3a4898d1fd916715c453c0ecbca03859836815d67084875d6ea",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 93574
+      }
+    ],
+    "rdm_internazionale": [
+      {
+        "type": "front",
+        "path": "assets/kits/rdm_internazionale/front.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 3/46130309_10(1).jpg",
+        "sha256": "762d6129964b71a63953d241c94446a863afcba29e3cfa073f486bbb8431fe62",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 140475
+      },
+      {
+        "type": "back",
+        "path": "assets/kits/rdm_internazionale/back.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 3/46130309_02(1).jpg",
+        "sha256": "e8502a6edc2295834621345d72d4c8bcb52d529240555fb07d8f460e3c87a06b",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 105244
+      },
+      {
+        "type": "three_quarter",
+        "path": "assets/kits/rdm_internazionale/three_quarter.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 3/46130309(1).jpg",
+        "sha256": "b14e4eb0edb9a49066407f4b9da10ff2868d24885ed918322669477192edcdfe",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 152307
+      },
+      {
+        "type": "detail",
+        "path": "assets/kits/rdm_internazionale/detail.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 3/46130309_03(1).jpg",
+        "sha256": "b108b0c112f3a52fd56d7fa0a54987c82625a93540f33cbfd9e3ccc744ab6ba9",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 280804
+      },
+      {
+        "type": "back_02",
+        "path": "assets/kits/rdm_internazionale/back_02.jpg",
+        "source": "assets/kits/1. MAGLIETTE/RDM 3/46130309_11(1).jpg",
+        "sha256": "57f8c750073883dc5ec5356576f31799a43380bacbf73e62a67d6a4ac84342bf",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 107089
+      }
+    ]
+  }
+}

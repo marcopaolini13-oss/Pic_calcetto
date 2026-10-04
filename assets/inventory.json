@@ -1,0 +1,3404 @@
+[
+  {
+    "path": "assets/logos/2. LOGHI/ENERGENTUS.png",
+    "filename": "ENERGENTUS.png",
+    "sha256": "82368d8b1a6365cc966110fd7b7df963897cbe6a8984a6984f84b3ac3d52c85b",
+    "status": "used",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 826597
+  },
+  {
+    "path": "assets/logos/2. LOGHI/ENERGETICI FC.jpeg",
+    "filename": "ENERGETICI FC.jpeg",
+    "sha256": "f7dde5c8aa72d7563d8fc2548890d9ea75e74bbd3f83a00c51bfd02314f19e9c",
+    "status": "used",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 255297
+  },
+  {
+    "path": "assets/logos/2. LOGHI/RDM FC.jpeg",
+    "filename": "RDM FC.jpeg",
+    "sha256": "f72558dc1693bfb09cb93cf3562b8d3920e45b0810f8e4b515be65e459b0009c",
+    "status": "used",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 200167
+  },
+  {
+    "path": "assets/logos/2. LOGHI/RDM INTER.jpeg",
+    "filename": "RDM INTER.jpeg",
+    "sha256": "1a7554db44bfb9bd9ee2f2242c9ff10dcf0e8f80dfad651f47183de9c63a1ffd",
+    "status": "used",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 160815
+  },
+  {
+    "path": "assets/logos/2. LOGHI/RDM WORLD.jpeg",
+    "filename": "RDM WORLD.jpeg",
+    "sha256": "2c071ae6727298b8923bc4b416eeb1061b2f39a61e73d0ba4a045d836c3838ab",
+    "status": "used",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 229122
+  },
+  {
+    "path": "assets/logos/2. LOGHI/RENEWABLES.jpeg",
+    "filename": "RENEWABLES.jpeg",
+    "sha256": "9f3fa4651b91443f1714a1813f5674fc988eb53e1a77640b5d3501cbf3a7e516",
+    "status": "used",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 246856
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/1ea6800fcffac23f629321fc47cd400d51720102_04_2(1).jpg",
+    "filename": "1ea6800fcffac23f629321fc47cd400d51720102_04_2(1).jpg",
+    "sha256": "a6387c8314d3cfe6354853d6ea94da1ba0d94dd8b21f45ee49a6de4a30689c3d",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 173220
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/1ea6800fcffac23f629321fc47cd400d51720102_04_2.jpg",
+    "filename": "1ea6800fcffac23f629321fc47cd400d51720102_04_2.jpg",
+    "sha256": "db1f965b0c03b36132df93809978eca470939761ea7f595300e1db2640d6fd1c",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2548
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/2d20490d204300389fc198da4a67720c51720102_05_2(1).jpg",
+    "filename": "2d20490d204300389fc198da4a67720c51720102_05_2(1).jpg",
+    "sha256": "656289626278257b205379b8d62588f249067dcafc75826c1e5a354efa566f0a",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 275306
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/2d20490d204300389fc198da4a67720c51720102_05_2.jpg",
+    "filename": "2d20490d204300389fc198da4a67720c51720102_05_2.jpg",
+    "sha256": "b469ef5675dfabbf94a95e796527933abd68be8177799c5d22c282c3d348a5ac",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2013
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/2e857ab93dd1f7051f00994bf2b1efe551720710_03_1.jpg",
+    "filename": "2e857ab93dd1f7051f00994bf2b1efe551720710_03_1.jpg",
+    "sha256": "fa09c8febaf98eb21fa1b1a396aad8605db6b385bf9dbfa8f8791c46458d4af9",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5093
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/2ee48111fb1042d722d562dd7e15c30351720710_04_1.jpg",
+    "filename": "2ee48111fb1042d722d562dd7e15c30351720710_04_1.jpg",
+    "sha256": "5876e33719f4421af1ab991d0378ecc53d0640b7549a8667097a99026fcd7248",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3269
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/4e8322a371118473083a7ecd2068d96151720102_2(1).jpg",
+    "filename": "4e8322a371118473083a7ecd2068d96151720102_2(1).jpg",
+    "sha256": "38c1af5119a315d00045a5aae3f056196b58e097c3faf0d165d0fd8bafe12354",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 57392
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/4e8322a371118473083a7ecd2068d96151720102_2.jpg",
+    "filename": "4e8322a371118473083a7ecd2068d96151720102_2.jpg",
+    "sha256": "9dc5fc39d2b41504c51b942b954c69fa3898a68937c075771a1a45073324c0c6",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2693
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/6a5e96971771f5245d4a2c1714a67bee51720102_10_2(1).jpg",
+    "filename": "6a5e96971771f5245d4a2c1714a67bee51720102_10_2(1).jpg",
+    "sha256": "0b4247b262ac53b31c26d1cf5ad1c171d775e5df070ca27989f5d7b4cccedae6",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 56815
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/6a5e96971771f5245d4a2c1714a67bee51720102_10_2.jpg",
+    "filename": "6a5e96971771f5245d4a2c1714a67bee51720102_10_2.jpg",
+    "sha256": "e741fcd50baa69454830c431bd744b536a73fdbbc7b510e5bcb4d2299668330d",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2706
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/71da61983d6ba8291d291311e292280251720102_03_2(1).jpg",
+    "filename": "71da61983d6ba8291d291311e292280251720102_03_2(1).jpg",
+    "sha256": "3a967b98f0555c8b36d6f9abfe296905d895001b8b4a264d7a15d2f07dcceb87",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 132424
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/71da61983d6ba8291d291311e292280251720102_03_2.jpg",
+    "filename": "71da61983d6ba8291d291311e292280251720102_03_2.jpg",
+    "sha256": "46621fed7d646516ade905edb6d11328ba00f049ead01c72c9be55bd8215e1cb",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3915
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/78b6e6723fe7d5659f8ee20f9604093351720102_02_2(1).jpg",
+    "filename": "78b6e6723fe7d5659f8ee20f9604093351720102_02_2(1).jpg",
+    "sha256": "ea2012d2c3f8c5c5b880317c67a988a0374286cfbd19e3489db87a66b3ee6985",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 42520
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/78b6e6723fe7d5659f8ee20f9604093351720102_02_2.jpg",
+    "filename": "78b6e6723fe7d5659f8ee20f9604093351720102_02_2.jpg",
+    "sha256": "56805dde1acedfb04f57a959c50426a4d81d2e08087fdc02f1a52e82b5e0b0b1",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 1444
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/a47774de4a3dc96b1aff1f739f3d30d551720102_11_2(1).jpg",
+    "filename": "a47774de4a3dc96b1aff1f739f3d30d551720102_11_2(1).jpg",
+    "sha256": "38b0b6d9eb19a1c479c34932445c6287cc0abe57fb6276da4cf34d9292cc9175",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 26127
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/a47774de4a3dc96b1aff1f739f3d30d551720102_11_2.jpg",
+    "filename": "a47774de4a3dc96b1aff1f739f3d30d551720102_11_2.jpg",
+    "sha256": "3f09f3f2849dc65d9a3d40c6b23c54bf716ccba377e607390181c5c93de173d8",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 1057
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/a985bfdb5a585b3ea372c2afdeeefba351720710_05_2.jpg",
+    "filename": "a985bfdb5a585b3ea372c2afdeeefba351720710_05_2.jpg",
+    "sha256": "9d94acf38b0cc4d8cbc272d57dd99819ddcb2bf5c2899a8912cf042bb5bb80b6",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2396
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/al.svg",
+    "filename": "al.svg",
+    "sha256": "87476e4c4b339983bcda71637a718eed1670bed1e39d7419db41b8f9db3a9485",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 3206
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/at.svg",
+    "filename": "at.svg",
+    "sha256": "1e513e59cf959d38287ad72edc6f07cda754b7621efb04ed74c333df73ff4176",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 240
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/au.svg",
+    "filename": "au.svg",
+    "sha256": "213bcc5e8c0c7defccd96f191f39e53f873da8129e55d230faafdd683d4168f9",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1546
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/be.svg",
+    "filename": "be.svg",
+    "sha256": "b3df2b94815bb9f38846ee9bf98e13f70cee99f9b08d80b95f96117255bb14ae",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 290
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/bg.svg",
+    "filename": "bg.svg",
+    "sha256": "c67e049a9f003f098e554808e74e3359970e4df9adcfb69b33dcb7bfd5b7a8c5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 286
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/cfe5118f0df303c97b5ad073cc510a4351720710_11_2.jpg",
+    "filename": "cfe5118f0df303c97b5ad073cc510a4351720710_11_2.jpg",
+    "sha256": "544fe7bd0a757594d2e06b87b1fa816a55fd38b112d4c0ff5088ea20d57d117a",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3188
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/ch.svg",
+    "filename": "ch.svg",
+    "sha256": "4e94e5c3a524345e7c24f3807ab2ca812225ea6ccdb59ec67125b0ea3ed02cd5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 297
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/charon_eco.jpg",
+    "filename": "charon_eco.jpg",
+    "sha256": "4291b0f956c24eb3392cc08349ba2cb2a2e67f65ff68c2c4fc67ecaa22770268",
+    "status": "accessory",
+    "width": 117,
+    "height": 117,
+    "bytes": 4752
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/cy.svg",
+    "filename": "cy.svg",
+    "sha256": "88d041c0eec06dab21e4d9c777ead616f2ab97eedef8b619f78f95dd51e74ab7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 5866
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/cz.svg",
+    "filename": "cz.svg",
+    "sha256": "265906e27b7bc9169b39564713880f07af8ffd23a178ebb75f90224c684719f1",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/dd8d1344cc5c69fff8d080f1e331877e51720710_1(1).jpg",
+    "filename": "dd8d1344cc5c69fff8d080f1e331877e51720710_1(1).jpg",
+    "sha256": "2ac76ceee890bd87f404f532a4b8a2c59cc2de5e0e3934c85a4ffab0d82e2853",
+    "status": "duplicate",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 92208
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/dd8d1344cc5c69fff8d080f1e331877e51720710_1.jpg",
+    "filename": "dd8d1344cc5c69fff8d080f1e331877e51720710_1.jpg",
+    "sha256": "2ff0295566634bb676dccb1e343610bb798000a177261f0219e18845d19c39e8",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4144
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/de.svg",
+    "filename": "de.svg",
+    "sha256": "226631a8fa9deee07022680ce0461b7a09b416b616c56ebcaf21f50e2b34ea8f",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 213
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/dk.svg",
+    "filename": "dk.svg",
+    "sha256": "c29517b4eb6b056475330a26a3f929c0523ef80268a8457ca5d44a7def3cdf44",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 239
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/ee.svg",
+    "filename": "ee.svg",
+    "sha256": "b4c2ebcd79e821fb8ee37e39d688560a79dee100a981402224a4f2bd9762e41e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/es.svg",
+    "filename": "es.svg",
+    "sha256": "ab3d438837b7f1c4ebce6980cc9274cd2e6adcc8af9be6f5cfc47ef2c4c464e3",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 90819
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/fa9ec426be824f5ad913251b62ce178e51720710_10_2.jpg",
+    "filename": "fa9ec426be824f5ad913251b62ce178e51720710_10_2.jpg",
+    "sha256": "baca61ef2274ea1abec82bfde730edb8c67bbcb2e585a4d299c305b7f69b89c2",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4209
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/fd5b9ad41f9d4a7788111c90d11146ba51720710_02_2.jpg",
+    "filename": "fd5b9ad41f9d4a7788111c90d11146ba51720710_02_2.jpg",
+    "sha256": "1817ea05f1adfc291eb848e2ca93a75af93141ec242a462549fc098e9c8ecc12",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3227
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/fi.svg",
+    "filename": "fi.svg",
+    "sha256": "83783a7dc69702dfbb59833d81c309748ffb04574aab8ed1cb7589189c0f80d2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/fo.svg",
+    "filename": "fo.svg",
+    "sha256": "c0b32df51365a3947ddcda18c15575c5c617b75b29330d78e606e684f3304334",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 570
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/fr.svg",
+    "filename": "fr.svg",
+    "sha256": "63667b36ddd95d29a9f163e3ab4b9f7000dcd310350c565c19b975a0a2418117",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/gb.svg",
+    "filename": "gb.svg",
+    "sha256": "825310f9bcc8892559317bfc87fc28d5d7bad06c02d562b5740aafcf4b040803",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 538
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/gr.svg",
+    "filename": "gr.svg",
+    "sha256": "d22330d2af43ce22eab7d8ec9efdbe27ccd9ac1255f3bd289aa671db07fd0205",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1096
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/hr.svg",
+    "filename": "hr.svg",
+    "sha256": "b0b1d075c651e2ceb10f558b33a13c9dd89310edfbe67df0f46a7b5d8d550de6",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 40615
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/hu.svg",
+    "filename": "hu.svg",
+    "sha256": "470431d1ed0dc2099f20313f78f906848acaf9efce57c543d83b3b62f8b7a448",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 274
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/icone-per-PDP_FSC_6.png",
+    "filename": "icone-per-PDP_FSC_6.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/icone-per-PDP_FSC_7.png",
+    "filename": "icone-per-PDP_FSC_7.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/ie.svg",
+    "filename": "ie.svg",
+    "sha256": "4d73eedf98a4c487c352db58751ff766f05f6aa3bfac1ecc0f9384e50d019191",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/is.svg",
+    "filename": "is.svg",
+    "sha256": "89b266e3c5824fabc91b8d04a830a3f32c62484b49543bc3921e14c57ba6cb7e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 524
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/it.svg",
+    "filename": "it.svg",
+    "sha256": "2d46fd7fde3f19c3f278fe9028e6fab6fa997fbdda3e18116fb70e57cfc78598",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/jp.svg",
+    "filename": "jp.svg",
+    "sha256": "e759dccba5bc383814ab190daba0d12ef591ad9f161502a47222c2eacf770606",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 474
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/lt.svg",
+    "filename": "lt.svg",
+    "sha256": "9012691cb1689944fd0813b33b7a58fb97921944ec8988f23590fed21a1ff07c",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 442
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/lu.svg",
+    "filename": "lu.svg",
+    "sha256": "4622624d698a9577a3fb92bd4fa5f98f305d704bc51306b86d109c6c865d069a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 228
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/lv.svg",
+    "filename": "lv.svg",
+    "sha256": "dc67526a1833d2cd7c50d87f0da252e1fa2b361d7d418715535d3aa63e5a76b7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 233
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/Macron_4_the_planet_Packaging_2_1.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_1.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/Macron_4_the_planet_Packaging_2_2.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_2.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/md.svg",
+    "filename": "md.svg",
+    "sha256": "92475a7045515ebb11c2127a896010934a569a7d16adc4a702d41adf4565d440",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 11237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/mt.svg",
+    "filename": "mt.svg",
+    "sha256": "fd6a6cbf958e7d3b88070ded68716b2b85bc130acf68e3b0bbab05361dbab47d",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8733
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/nl.svg",
+    "filename": "nl.svg",
+    "sha256": "a91174a3cccd5ec66da2cc68e0cbf86a3ea73d2976dc303c72109198b2504b51",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 224
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/no.svg",
+    "filename": "no.svg",
+    "sha256": "c59f156ddd70507f05267dc35e2e4f3e44467b9ef414995abb91589dc486dd6a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/pl.svg",
+    "filename": "pl.svg",
+    "sha256": "bd8c588ce4c71594e5f3789b700c935e3c97e5c06e62ddb595752c805e90d851",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 222
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/pt.svg",
+    "filename": "pt.svg",
+    "sha256": "62137f64b8b37b24510095926415b3120029f0d57e97817209e895f9c50b26dd",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8280
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/ro.svg",
+    "filename": "ro.svg",
+    "sha256": "854593a65b29383274aabe385c4ff58794a2b5d4b89c5414a0ff11f96d016f1e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 305
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/se.svg",
+    "filename": "se.svg",
+    "sha256": "f15c8829e3f3e3ad94343f7677078bb6a5061156e752ac52cd589a253c60f4df",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/si.svg",
+    "filename": "si.svg",
+    "sha256": "25487f7aa91f115d558f031ffaf0d399924b032100d24d467c3bd1cb026d9001",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 2053
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/sk.svg",
+    "filename": "sk.svg",
+    "sha256": "4ca76c921fae3345c47f1f540cdaf3716a7807ffcba532caea50090c8bbecac2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1202
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/ua.svg",
+    "filename": "ua.svg",
+    "sha256": "fbbf0f0e9a6d6187561f38af9b3f28e3125e406c3deea268bcb64dac7a03a6aa",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 238
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 1/us.svg",
+    "filename": "us.svg",
+    "sha256": "c70ba1cb67cc649da2b1f5dc4a26891437d8bba2cc098c88461e6bfc23949d9e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 4461
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/12570759fe43b886767fa7d86e42857d800002850201_02.jpg",
+    "filename": "12570759fe43b886767fa7d86e42857d800002850201_02.jpg",
+    "sha256": "70eb7acbca25d446a0b4bcbb1354bb3b472cf523673c7917acb67c565241aa59",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3845
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/179ee0123b9bfe097d0acbc71acd1145800002850201_11.jpg",
+    "filename": "179ee0123b9bfe097d0acbc71acd1145800002850201_11.jpg",
+    "sha256": "bf808330ba9b932305732663b3ae34253d0249b602c2801b85dd97782bf38710",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3954
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/26cbb5cf83c18c6793b44cab269497f2800002850901_03.jpg",
+    "filename": "26cbb5cf83c18c6793b44cab269497f2800002850901_03.jpg",
+    "sha256": "69f90e93a674ed7b7c0159597428478037faa0fce9249d27b11eb257c7b4ad68",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3423
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/26f34e32f72d125e2d165c62cbbe60bf800002850201_10.jpg",
+    "filename": "26f34e32f72d125e2d165c62cbbe60bf800002850201_10.jpg",
+    "sha256": "59bf1f212f788f3b32d5b8065a8a6c97ed5804c3871638a6c58d6506db4c112f",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4599
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/3c695177ea875f2987a84c30825ed087800002850201(1).jpg",
+    "filename": "3c695177ea875f2987a84c30825ed087800002850201(1).jpg",
+    "sha256": "b0861c18c5cfa2a85ab18e88649c44514f2a83cf07f62b0007df6c9e6e3603de",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 102993
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/3c695177ea875f2987a84c30825ed087800002850201.jpg",
+    "filename": "3c695177ea875f2987a84c30825ed087800002850201.jpg",
+    "sha256": "77edcdc486edb12c53325656c12b1cd799f1f7f89efbf1b2606701a217210210",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4379
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/584673f4d094d9648fa674ef9621a2cd800002850201_02(1).jpg",
+    "filename": "584673f4d094d9648fa674ef9621a2cd800002850201_02(1).jpg",
+    "sha256": "b84c730da6580ff1a04d959825c86db5bd35fb4f7d40cd7b0cee7b4bb20dd555",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 101919
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/584673f4d094d9648fa674ef9621a2cd800002850201_02.jpg",
+    "filename": "584673f4d094d9648fa674ef9621a2cd800002850201_02.jpg",
+    "sha256": "70eb7acbca25d446a0b4bcbb1354bb3b472cf523673c7917acb67c565241aa59",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3845
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/6d69eef2233777841463458d210203c8800002850901_10.jpg",
+    "filename": "6d69eef2233777841463458d210203c8800002850901_10.jpg",
+    "sha256": "1e617c0c27cf2a89c01ff74505060bf57f28e8a451ffff2352361f6151542802",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2938
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/8d157374d9184df2e3e226a193f94ecc800002850901_11.jpg",
+    "filename": "8d157374d9184df2e3e226a193f94ecc800002850901_11.jpg",
+    "sha256": "0a326dc4ab408229a2be12663e9f40b29e6ff28889c3d3f6b009f4264a335034",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2597
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/949d2e7ac0c06eca624c58e7840e7cc3800002850901_02.jpg",
+    "filename": "949d2e7ac0c06eca624c58e7840e7cc3800002850901_02.jpg",
+    "sha256": "18895d06fea9da3c2c3b89504818c167822a37a04cecb4baec371965115cc217",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2547
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/9fd63e7f7800dc208ad44c2e90e27a70800002850201_03(1).jpg",
+    "filename": "9fd63e7f7800dc208ad44c2e90e27a70800002850201_03(1).jpg",
+    "sha256": "493d0c6690453ae5cd33d06255d8d03cda84cbaf113d4badc6684a2db9878e86",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 231241
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/9fd63e7f7800dc208ad44c2e90e27a70800002850201_03.jpg",
+    "filename": "9fd63e7f7800dc208ad44c2e90e27a70800002850201_03.jpg",
+    "sha256": "2e122dcffc63d9bfc77f119d182e083333131c5bed574a59af715140a82b7d41",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5764
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/a301f429babd172d6ab19e588169c30a800002850201(1).jpg",
+    "filename": "a301f429babd172d6ab19e588169c30a800002850201(1).jpg",
+    "sha256": "b0861c18c5cfa2a85ab18e88649c44514f2a83cf07f62b0007df6c9e6e3603de",
+    "status": "duplicate",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 102993
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/a301f429babd172d6ab19e588169c30a800002850201.jpg",
+    "filename": "a301f429babd172d6ab19e588169c30a800002850201.jpg",
+    "sha256": "77edcdc486edb12c53325656c12b1cd799f1f7f89efbf1b2606701a217210210",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4379
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/aa9693daf6e0f01224dd393ed557996a800002850201_11(1).jpg",
+    "filename": "aa9693daf6e0f01224dd393ed557996a800002850201_11(1).jpg",
+    "sha256": "b64588fe891e815c85173061982c1bbf1b0c09af3b7487899569c35c086bd9c1",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 114124
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/aa9693daf6e0f01224dd393ed557996a800002850201_11.jpg",
+    "filename": "aa9693daf6e0f01224dd393ed557996a800002850201_11.jpg",
+    "sha256": "bf808330ba9b932305732663b3ae34253d0249b602c2801b85dd97782bf38710",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3954
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/al.svg",
+    "filename": "al.svg",
+    "sha256": "87476e4c4b339983bcda71637a718eed1670bed1e39d7419db41b8f9db3a9485",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 3206
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/at.svg",
+    "filename": "at.svg",
+    "sha256": "1e513e59cf959d38287ad72edc6f07cda754b7621efb04ed74c333df73ff4176",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 240
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/au.svg",
+    "filename": "au.svg",
+    "sha256": "213bcc5e8c0c7defccd96f191f39e53f873da8129e55d230faafdd683d4168f9",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1546
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/b10aaebc92b6cfc20ef21ccd9249f7ed800002850901.jpg",
+    "filename": "b10aaebc92b6cfc20ef21ccd9249f7ed800002850901.jpg",
+    "sha256": "5a9d722175640cbc2a8f3d0b24b0a0840ff850015bfccd344b201b773bfc9e09",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2846
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/be.svg",
+    "filename": "be.svg",
+    "sha256": "b3df2b94815bb9f38846ee9bf98e13f70cee99f9b08d80b95f96117255bb14ae",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 290
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/bg.svg",
+    "filename": "bg.svg",
+    "sha256": "c67e049a9f003f098e554808e74e3359970e4df9adcfb69b33dcb7bfd5b7a8c5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 286
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/c0aa488880d9cc37818f6fda802b7be9800002850201_03.jpg",
+    "filename": "c0aa488880d9cc37818f6fda802b7be9800002850201_03.jpg",
+    "sha256": "2e122dcffc63d9bfc77f119d182e083333131c5bed574a59af715140a82b7d41",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5764
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/ch.svg",
+    "filename": "ch.svg",
+    "sha256": "4e94e5c3a524345e7c24f3807ab2ca812225ea6ccdb59ec67125b0ea3ed02cd5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 297
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/cy.svg",
+    "filename": "cy.svg",
+    "sha256": "88d041c0eec06dab21e4d9c777ead616f2ab97eedef8b619f78f95dd51e74ab7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 5866
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/cz.svg",
+    "filename": "cz.svg",
+    "sha256": "265906e27b7bc9169b39564713880f07af8ffd23a178ebb75f90224c684719f1",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/de.svg",
+    "filename": "de.svg",
+    "sha256": "226631a8fa9deee07022680ce0461b7a09b416b616c56ebcaf21f50e2b34ea8f",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 213
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/dfc876660d23b7ce630863e836206ed6800002850201_10(1).jpg",
+    "filename": "dfc876660d23b7ce630863e836206ed6800002850201_10(1).jpg",
+    "sha256": "32c0e606d2195641d745b2691c0fff3c037df93b735ab3782e8dffb05981934e",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 110104
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/dfc876660d23b7ce630863e836206ed6800002850201_10.jpg",
+    "filename": "dfc876660d23b7ce630863e836206ed6800002850201_10.jpg",
+    "sha256": "59bf1f212f788f3b32d5b8065a8a6c97ed5804c3871638a6c58d6506db4c112f",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4599
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/dk.svg",
+    "filename": "dk.svg",
+    "sha256": "c29517b4eb6b056475330a26a3f929c0523ef80268a8457ca5d44a7def3cdf44",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 239
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/ee.svg",
+    "filename": "ee.svg",
+    "sha256": "b4c2ebcd79e821fb8ee37e39d688560a79dee100a981402224a4f2bd9762e41e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/es.svg",
+    "filename": "es.svg",
+    "sha256": "ab3d438837b7f1c4ebce6980cc9274cd2e6adcc8af9be6f5cfc47ef2c4c464e3",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 90819
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/fi.svg",
+    "filename": "fi.svg",
+    "sha256": "83783a7dc69702dfbb59833d81c309748ffb04574aab8ed1cb7589189c0f80d2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/fo.svg",
+    "filename": "fo.svg",
+    "sha256": "c0b32df51365a3947ddcda18c15575c5c617b75b29330d78e606e684f3304334",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 570
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/fr.svg",
+    "filename": "fr.svg",
+    "sha256": "63667b36ddd95d29a9f163e3ab4b9f7000dcd310350c565c19b975a0a2418117",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/gb.svg",
+    "filename": "gb.svg",
+    "sha256": "825310f9bcc8892559317bfc87fc28d5d7bad06c02d562b5740aafcf4b040803",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 538
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/gr.svg",
+    "filename": "gr.svg",
+    "sha256": "d22330d2af43ce22eab7d8ec9efdbe27ccd9ac1255f3bd289aa671db07fd0205",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1096
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/hr.svg",
+    "filename": "hr.svg",
+    "sha256": "b0b1d075c651e2ceb10f558b33a13c9dd89310edfbe67df0f46a7b5d8d550de6",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 40615
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/hu.svg",
+    "filename": "hu.svg",
+    "sha256": "470431d1ed0dc2099f20313f78f906848acaf9efce57c543d83b3b62f8b7a448",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 274
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/icone-per-PDP_FSC_6.png",
+    "filename": "icone-per-PDP_FSC_6.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/icone-per-PDP_FSC_7.png",
+    "filename": "icone-per-PDP_FSC_7.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/ie.svg",
+    "filename": "ie.svg",
+    "sha256": "4d73eedf98a4c487c352db58751ff766f05f6aa3bfac1ecc0f9384e50d019191",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/is.svg",
+    "filename": "is.svg",
+    "sha256": "89b266e3c5824fabc91b8d04a830a3f32c62484b49543bc3921e14c57ba6cb7e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 524
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/it.svg",
+    "filename": "it.svg",
+    "sha256": "2d46fd7fde3f19c3f278fe9028e6fab6fa997fbdda3e18116fb70e57cfc78598",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/jp.svg",
+    "filename": "jp.svg",
+    "sha256": "e759dccba5bc383814ab190daba0d12ef591ad9f161502a47222c2eacf770606",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 474
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/lt.svg",
+    "filename": "lt.svg",
+    "sha256": "9012691cb1689944fd0813b33b7a58fb97921944ec8988f23590fed21a1ff07c",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 442
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/lu.svg",
+    "filename": "lu.svg",
+    "sha256": "4622624d698a9577a3fb92bd4fa5f98f305d704bc51306b86d109c6c865d069a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 228
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/lv.svg",
+    "filename": "lv.svg",
+    "sha256": "dc67526a1833d2cd7c50d87f0da252e1fa2b361d7d418715535d3aa63e5a76b7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 233
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/Macron_4_the_planet_Packaging_2_1.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_1.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/Macron_4_the_planet_Packaging_2_2.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_2.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/md.svg",
+    "filename": "md.svg",
+    "sha256": "92475a7045515ebb11c2127a896010934a569a7d16adc4a702d41adf4565d440",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 11237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/mt.svg",
+    "filename": "mt.svg",
+    "sha256": "fd6a6cbf958e7d3b88070ded68716b2b85bc130acf68e3b0bbab05361dbab47d",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8733
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/nl.svg",
+    "filename": "nl.svg",
+    "sha256": "a91174a3cccd5ec66da2cc68e0cbf86a3ea73d2976dc303c72109198b2504b51",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 224
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/no.svg",
+    "filename": "no.svg",
+    "sha256": "c59f156ddd70507f05267dc35e2e4f3e44467b9ef414995abb91589dc486dd6a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/pl.svg",
+    "filename": "pl.svg",
+    "sha256": "bd8c588ce4c71594e5f3789b700c935e3c97e5c06e62ddb595752c805e90d851",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 222
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/pt.svg",
+    "filename": "pt.svg",
+    "sha256": "62137f64b8b37b24510095926415b3120029f0d57e97817209e895f9c50b26dd",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8280
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/ro.svg",
+    "filename": "ro.svg",
+    "sha256": "854593a65b29383274aabe385c4ff58794a2b5d4b89c5414a0ff11f96d016f1e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 305
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/se.svg",
+    "filename": "se.svg",
+    "sha256": "f15c8829e3f3e3ad94343f7677078bb6a5061156e752ac52cd589a253c60f4df",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/si.svg",
+    "filename": "si.svg",
+    "sha256": "25487f7aa91f115d558f031ffaf0d399924b032100d24d467c3bd1cb026d9001",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 2053
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/sk.svg",
+    "filename": "sk.svg",
+    "sha256": "4ca76c921fae3345c47f1f540cdaf3716a7807ffcba532caea50090c8bbecac2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1202
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/ua.svg",
+    "filename": "ua.svg",
+    "sha256": "fbbf0f0e9a6d6187561f38af9b3f28e3125e406c3deea268bcb64dac7a03a6aa",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 238
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 2/us.svg",
+    "filename": "us.svg",
+    "sha256": "c70ba1cb67cc649da2b1f5dc4a26891437d8bba2cc098c88461e6bfc23949d9e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 4461
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109(1).jpg",
+    "filename": "46130109(1).jpg",
+    "sha256": "57616a9cd9d66e066d9d8161a69beb00ffdf6baa177595ecfd568153fa9620d1",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 129216
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109.jpg",
+    "filename": "46130109.jpg",
+    "sha256": "94e1f6456fc2410a56eae5aadb712b5889b23bdabd5218caf73bc0f77bbe3d82",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3938
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_02.jpg",
+    "filename": "46130109_02.jpg",
+    "sha256": "056a78c1887188be897497ac5a4c683fc4ffbbd534ad9a37257c5cd734307465",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2794
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_02_1(1).jpg",
+    "filename": "46130109_02_1(1).jpg",
+    "sha256": "a4757e0eaa335f46f1f0ab5279ba71e0ad23599550165b5d8db093dd39024e4a",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 67657
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_02_1.jpg",
+    "filename": "46130109_02_1.jpg",
+    "sha256": "056a78c1887188be897497ac5a4c683fc4ffbbd534ad9a37257c5cd734307465",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2794
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_03.jpg",
+    "filename": "46130109_03.jpg",
+    "sha256": "5434f1a2b616816aa2b3cd4888e6911ff974f351c15d336c3be60c218d695fd9",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5063
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_03_1(1).jpg",
+    "filename": "46130109_03_1(1).jpg",
+    "sha256": "98d71f44324300c54a19d5b955719bf90b3678ed55853315a444ce0de273ca32",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 227092
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_03_1.jpg",
+    "filename": "46130109_03_1.jpg",
+    "sha256": "5434f1a2b616816aa2b3cd4888e6911ff974f351c15d336c3be60c218d695fd9",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5063
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_1(1).jpg",
+    "filename": "46130109_1(1).jpg",
+    "sha256": "57616a9cd9d66e066d9d8161a69beb00ffdf6baa177595ecfd568153fa9620d1",
+    "status": "duplicate",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 129216
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_1.jpg",
+    "filename": "46130109_1.jpg",
+    "sha256": "94e1f6456fc2410a56eae5aadb712b5889b23bdabd5218caf73bc0f77bbe3d82",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3938
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_10.jpg",
+    "filename": "46130109_10.jpg",
+    "sha256": "ff86fd373a581f80ee681e10b68e099764fe5a12302fc1b6900b1f68c3ba61af",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3974
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_10_1(1).jpg",
+    "filename": "46130109_10_1(1).jpg",
+    "sha256": "f2173adad9b9b4cf340e4844c1ac4bf10f3b680cac9ec66417865db01f955c85",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 105293
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_10_1.jpg",
+    "filename": "46130109_10_1.jpg",
+    "sha256": "ff86fd373a581f80ee681e10b68e099764fe5a12302fc1b6900b1f68c3ba61af",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3974
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_11.jpg",
+    "filename": "46130109_11.jpg",
+    "sha256": "46b8c26558390b2f6c9a1ab7046c2eeaf205578f641808b719a11c907128d876",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3080
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_11_1(1).jpg",
+    "filename": "46130109_11_1(1).jpg",
+    "sha256": "ca7ad45c9e2258d1c024c5a516d748271839c647cdc8b1db14387e18d5f82fdf",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 82171
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/46130109_11_1.jpg",
+    "filename": "46130109_11_1.jpg",
+    "sha256": "46b8c26558390b2f6c9a1ab7046c2eeaf205578f641808b719a11c907128d876",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3080
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/al.svg",
+    "filename": "al.svg",
+    "sha256": "87476e4c4b339983bcda71637a718eed1670bed1e39d7419db41b8f9db3a9485",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 3206
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/at.svg",
+    "filename": "at.svg",
+    "sha256": "1e513e59cf959d38287ad72edc6f07cda754b7621efb04ed74c333df73ff4176",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 240
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/au.svg",
+    "filename": "au.svg",
+    "sha256": "213bcc5e8c0c7defccd96f191f39e53f873da8129e55d230faafdd683d4168f9",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1546
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/be.svg",
+    "filename": "be.svg",
+    "sha256": "b3df2b94815bb9f38846ee9bf98e13f70cee99f9b08d80b95f96117255bb14ae",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 290
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/bg.svg",
+    "filename": "bg.svg",
+    "sha256": "c67e049a9f003f098e554808e74e3359970e4df9adcfb69b33dcb7bfd5b7a8c5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 286
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/ch.svg",
+    "filename": "ch.svg",
+    "sha256": "4e94e5c3a524345e7c24f3807ab2ca812225ea6ccdb59ec67125b0ea3ed02cd5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 297
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/cy.svg",
+    "filename": "cy.svg",
+    "sha256": "88d041c0eec06dab21e4d9c777ead616f2ab97eedef8b619f78f95dd51e74ab7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 5866
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/cz.svg",
+    "filename": "cz.svg",
+    "sha256": "265906e27b7bc9169b39564713880f07af8ffd23a178ebb75f90224c684719f1",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/de.svg",
+    "filename": "de.svg",
+    "sha256": "226631a8fa9deee07022680ce0461b7a09b416b616c56ebcaf21f50e2b34ea8f",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 213
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/dk.svg",
+    "filename": "dk.svg",
+    "sha256": "c29517b4eb6b056475330a26a3f929c0523ef80268a8457ca5d44a7def3cdf44",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 239
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/ee.svg",
+    "filename": "ee.svg",
+    "sha256": "b4c2ebcd79e821fb8ee37e39d688560a79dee100a981402224a4f2bd9762e41e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/es.svg",
+    "filename": "es.svg",
+    "sha256": "ab3d438837b7f1c4ebce6980cc9274cd2e6adcc8af9be6f5cfc47ef2c4c464e3",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 90819
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/fi.svg",
+    "filename": "fi.svg",
+    "sha256": "83783a7dc69702dfbb59833d81c309748ffb04574aab8ed1cb7589189c0f80d2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/fo.svg",
+    "filename": "fo.svg",
+    "sha256": "c0b32df51365a3947ddcda18c15575c5c617b75b29330d78e606e684f3304334",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 570
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/fr.svg",
+    "filename": "fr.svg",
+    "sha256": "63667b36ddd95d29a9f163e3ab4b9f7000dcd310350c565c19b975a0a2418117",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/gb.svg",
+    "filename": "gb.svg",
+    "sha256": "825310f9bcc8892559317bfc87fc28d5d7bad06c02d562b5740aafcf4b040803",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 538
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/gr.svg",
+    "filename": "gr.svg",
+    "sha256": "d22330d2af43ce22eab7d8ec9efdbe27ccd9ac1255f3bd289aa671db07fd0205",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1096
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/hr.svg",
+    "filename": "hr.svg",
+    "sha256": "b0b1d075c651e2ceb10f558b33a13c9dd89310edfbe67df0f46a7b5d8d550de6",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 40615
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/hu.svg",
+    "filename": "hu.svg",
+    "sha256": "470431d1ed0dc2099f20313f78f906848acaf9efce57c543d83b3b62f8b7a448",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 274
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/icone-per-PDP_FSC_6.png",
+    "filename": "icone-per-PDP_FSC_6.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/icone-per-PDP_FSC_7.png",
+    "filename": "icone-per-PDP_FSC_7.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/ie.svg",
+    "filename": "ie.svg",
+    "sha256": "4d73eedf98a4c487c352db58751ff766f05f6aa3bfac1ecc0f9384e50d019191",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/is.svg",
+    "filename": "is.svg",
+    "sha256": "89b266e3c5824fabc91b8d04a830a3f32c62484b49543bc3921e14c57ba6cb7e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 524
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/it.svg",
+    "filename": "it.svg",
+    "sha256": "2d46fd7fde3f19c3f278fe9028e6fab6fa997fbdda3e18116fb70e57cfc78598",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/jp.svg",
+    "filename": "jp.svg",
+    "sha256": "e759dccba5bc383814ab190daba0d12ef591ad9f161502a47222c2eacf770606",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 474
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/lt.svg",
+    "filename": "lt.svg",
+    "sha256": "9012691cb1689944fd0813b33b7a58fb97921944ec8988f23590fed21a1ff07c",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 442
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/lu.svg",
+    "filename": "lu.svg",
+    "sha256": "4622624d698a9577a3fb92bd4fa5f98f305d704bc51306b86d109c6c865d069a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 228
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/lv.svg",
+    "filename": "lv.svg",
+    "sha256": "dc67526a1833d2cd7c50d87f0da252e1fa2b361d7d418715535d3aa63e5a76b7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 233
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/Macron_4_the_planet_Packaging_2_1.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_1.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/Macron_4_the_planet_Packaging_2_2.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_2.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/md.svg",
+    "filename": "md.svg",
+    "sha256": "92475a7045515ebb11c2127a896010934a569a7d16adc4a702d41adf4565d440",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 11237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/mt.svg",
+    "filename": "mt.svg",
+    "sha256": "fd6a6cbf958e7d3b88070ded68716b2b85bc130acf68e3b0bbab05361dbab47d",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8733
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/nl.svg",
+    "filename": "nl.svg",
+    "sha256": "a91174a3cccd5ec66da2cc68e0cbf86a3ea73d2976dc303c72109198b2504b51",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 224
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/no.svg",
+    "filename": "no.svg",
+    "sha256": "c59f156ddd70507f05267dc35e2e4f3e44467b9ef414995abb91589dc486dd6a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/pl.svg",
+    "filename": "pl.svg",
+    "sha256": "bd8c588ce4c71594e5f3789b700c935e3c97e5c06e62ddb595752c805e90d851",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 222
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/pt.svg",
+    "filename": "pt.svg",
+    "sha256": "62137f64b8b37b24510095926415b3120029f0d57e97817209e895f9c50b26dd",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8280
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/ro.svg",
+    "filename": "ro.svg",
+    "sha256": "854593a65b29383274aabe385c4ff58794a2b5d4b89c5414a0ff11f96d016f1e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 305
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/se.svg",
+    "filename": "se.svg",
+    "sha256": "f15c8829e3f3e3ad94343f7677078bb6a5061156e752ac52cd589a253c60f4df",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/si.svg",
+    "filename": "si.svg",
+    "sha256": "25487f7aa91f115d558f031ffaf0d399924b032100d24d467c3bd1cb026d9001",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 2053
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/sk.svg",
+    "filename": "sk.svg",
+    "sha256": "4ca76c921fae3345c47f1f540cdaf3716a7807ffcba532caea50090c8bbecac2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1202
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/ua.svg",
+    "filename": "ua.svg",
+    "sha256": "fbbf0f0e9a6d6187561f38af9b3f28e3125e406c3deea268bcb64dac7a03a6aa",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 238
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/EN 3/us.svg",
+    "filename": "us.svg",
+    "sha256": "c70ba1cb67cc649da2b1f5dc4a26891437d8bba2cc098c88461e6bfc23949d9e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 4461
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/0781e9654f35fb5e08cd2dc93115554051720710_10_2(1).jpg",
+    "filename": "0781e9654f35fb5e08cd2dc93115554051720710_10_2(1).jpg",
+    "sha256": "22dee6406e0482c16eba0e3207cc7dad794d2d053070f0a0f9488251671d3792",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 89929
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/0781e9654f35fb5e08cd2dc93115554051720710_10_2.jpg",
+    "filename": "0781e9654f35fb5e08cd2dc93115554051720710_10_2.jpg",
+    "sha256": "baca61ef2274ea1abec82bfde730edb8c67bbcb2e585a4d299c305b7f69b89c2",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4209
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/263dcb42a51eb4aba5f451e8954c721f51720710_05_2(1).jpg",
+    "filename": "263dcb42a51eb4aba5f451e8954c721f51720710_05_2(1).jpg",
+    "sha256": "b0121e59e394d5ffc8267f51f8789ac9c775291ff13a802b471fba27f2d335bd",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 271189
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/263dcb42a51eb4aba5f451e8954c721f51720710_05_2.jpg",
+    "filename": "263dcb42a51eb4aba5f451e8954c721f51720710_05_2.jpg",
+    "sha256": "9d94acf38b0cc4d8cbc272d57dd99819ddcb2bf5c2899a8912cf042bb5bb80b6",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2396
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/2e857ab93dd1f7051f00994bf2b1efe551720710_03_1.jpg",
+    "filename": "2e857ab93dd1f7051f00994bf2b1efe551720710_03_1.jpg",
+    "sha256": "fa09c8febaf98eb21fa1b1a396aad8605db6b385bf9dbfa8f8791c46458d4af9",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5093
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/2ee48111fb1042d722d562dd7e15c30351720710_04_1.jpg",
+    "filename": "2ee48111fb1042d722d562dd7e15c30351720710_04_1.jpg",
+    "sha256": "5876e33719f4421af1ab991d0378ecc53d0640b7549a8667097a99026fcd7248",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3269
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/3436e8e13424fe4ad6fa5d0ee427c4fd51720710_03_2(1).jpg",
+    "filename": "3436e8e13424fe4ad6fa5d0ee427c4fd51720710_03_2(1).jpg",
+    "sha256": "95303cd87a6926ea8e8ea38b7c0a0493008a4d7e9311224e94a8ed977d7fdf35",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 191211
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/3436e8e13424fe4ad6fa5d0ee427c4fd51720710_03_2.jpg",
+    "filename": "3436e8e13424fe4ad6fa5d0ee427c4fd51720710_03_2.jpg",
+    "sha256": "fa09c8febaf98eb21fa1b1a396aad8605db6b385bf9dbfa8f8791c46458d4af9",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5093
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/397f4fe7a3d54fe83de1b4b921514a4b51720710_02_2(1).jpg",
+    "filename": "397f4fe7a3d54fe83de1b4b921514a4b51720710_02_2(1).jpg",
+    "sha256": "9063406ce106e9186bf5a24181e94ceb8031b944fe87789663b7906147148bc2",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 97686
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/397f4fe7a3d54fe83de1b4b921514a4b51720710_02_2.jpg",
+    "filename": "397f4fe7a3d54fe83de1b4b921514a4b51720710_02_2.jpg",
+    "sha256": "1817ea05f1adfc291eb848e2ca93a75af93141ec242a462549fc098e9c8ecc12",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3227
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/5e87d9f2dc847cfde18fba7b43ece73151720710_11_2(1).jpg",
+    "filename": "5e87d9f2dc847cfde18fba7b43ece73151720710_11_2(1).jpg",
+    "sha256": "9c34bbf73da2e506b256a6c9b6d2cd0f8341a6179a8083cc2d346d4ed6327daa",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 92830
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/5e87d9f2dc847cfde18fba7b43ece73151720710_11_2.jpg",
+    "filename": "5e87d9f2dc847cfde18fba7b43ece73151720710_11_2.jpg",
+    "sha256": "544fe7bd0a757594d2e06b87b1fa816a55fd38b112d4c0ff5088ea20d57d117a",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3188
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/6e44ab0a0739ad0367a45e002658ba7651720710_04_2(1).jpg",
+    "filename": "6e44ab0a0739ad0367a45e002658ba7651720710_04_2(1).jpg",
+    "sha256": "4a9e59c78c5d4d8bd4fe3caf34b61513e01248ab43b4cd7c4ec469462c12c1ef",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 177489
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/6e44ab0a0739ad0367a45e002658ba7651720710_04_2.jpg",
+    "filename": "6e44ab0a0739ad0367a45e002658ba7651720710_04_2.jpg",
+    "sha256": "5876e33719f4421af1ab991d0378ecc53d0640b7549a8667097a99026fcd7248",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3269
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/89e1ffb2796ed3fdd307bffb48c688b151720710_2(1).jpg",
+    "filename": "89e1ffb2796ed3fdd307bffb48c688b151720710_2(1).jpg",
+    "sha256": "2ac76ceee890bd87f404f532a4b8a2c59cc2de5e0e3934c85a4ffab0d82e2853",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 92208
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/89e1ffb2796ed3fdd307bffb48c688b151720710_2.jpg",
+    "filename": "89e1ffb2796ed3fdd307bffb48c688b151720710_2.jpg",
+    "sha256": "2ff0295566634bb676dccb1e343610bb798000a177261f0219e18845d19c39e8",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4144
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/a985bfdb5a585b3ea372c2afdeeefba351720710_05_2.jpg",
+    "filename": "a985bfdb5a585b3ea372c2afdeeefba351720710_05_2.jpg",
+    "sha256": "9d94acf38b0cc4d8cbc272d57dd99819ddcb2bf5c2899a8912cf042bb5bb80b6",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2396
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/al.svg",
+    "filename": "al.svg",
+    "sha256": "87476e4c4b339983bcda71637a718eed1670bed1e39d7419db41b8f9db3a9485",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 3206
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/at.svg",
+    "filename": "at.svg",
+    "sha256": "1e513e59cf959d38287ad72edc6f07cda754b7621efb04ed74c333df73ff4176",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 240
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/au.svg",
+    "filename": "au.svg",
+    "sha256": "213bcc5e8c0c7defccd96f191f39e53f873da8129e55d230faafdd683d4168f9",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1546
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/be.svg",
+    "filename": "be.svg",
+    "sha256": "b3df2b94815bb9f38846ee9bf98e13f70cee99f9b08d80b95f96117255bb14ae",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 290
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/bg.svg",
+    "filename": "bg.svg",
+    "sha256": "c67e049a9f003f098e554808e74e3359970e4df9adcfb69b33dcb7bfd5b7a8c5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 286
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/cfe5118f0df303c97b5ad073cc510a4351720710_11_2.jpg",
+    "filename": "cfe5118f0df303c97b5ad073cc510a4351720710_11_2.jpg",
+    "sha256": "544fe7bd0a757594d2e06b87b1fa816a55fd38b112d4c0ff5088ea20d57d117a",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3188
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/ch.svg",
+    "filename": "ch.svg",
+    "sha256": "4e94e5c3a524345e7c24f3807ab2ca812225ea6ccdb59ec67125b0ea3ed02cd5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 297
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/charon_eco.jpg",
+    "filename": "charon_eco.jpg",
+    "sha256": "4291b0f956c24eb3392cc08349ba2cb2a2e67f65ff68c2c4fc67ecaa22770268",
+    "status": "accessory",
+    "width": 117,
+    "height": 117,
+    "bytes": 4752
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/cy.svg",
+    "filename": "cy.svg",
+    "sha256": "88d041c0eec06dab21e4d9c777ead616f2ab97eedef8b619f78f95dd51e74ab7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 5866
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/cz.svg",
+    "filename": "cz.svg",
+    "sha256": "265906e27b7bc9169b39564713880f07af8ffd23a178ebb75f90224c684719f1",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/dd8d1344cc5c69fff8d080f1e331877e51720710_1(1).jpg",
+    "filename": "dd8d1344cc5c69fff8d080f1e331877e51720710_1(1).jpg",
+    "sha256": "2ac76ceee890bd87f404f532a4b8a2c59cc2de5e0e3934c85a4ffab0d82e2853",
+    "status": "duplicate",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 92208
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/dd8d1344cc5c69fff8d080f1e331877e51720710_1.jpg",
+    "filename": "dd8d1344cc5c69fff8d080f1e331877e51720710_1.jpg",
+    "sha256": "2ff0295566634bb676dccb1e343610bb798000a177261f0219e18845d19c39e8",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4144
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/de.svg",
+    "filename": "de.svg",
+    "sha256": "226631a8fa9deee07022680ce0461b7a09b416b616c56ebcaf21f50e2b34ea8f",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 213
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/dk.svg",
+    "filename": "dk.svg",
+    "sha256": "c29517b4eb6b056475330a26a3f929c0523ef80268a8457ca5d44a7def3cdf44",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 239
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/ee.svg",
+    "filename": "ee.svg",
+    "sha256": "b4c2ebcd79e821fb8ee37e39d688560a79dee100a981402224a4f2bd9762e41e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/es.svg",
+    "filename": "es.svg",
+    "sha256": "ab3d438837b7f1c4ebce6980cc9274cd2e6adcc8af9be6f5cfc47ef2c4c464e3",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 90819
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/fa9ec426be824f5ad913251b62ce178e51720710_10_2.jpg",
+    "filename": "fa9ec426be824f5ad913251b62ce178e51720710_10_2.jpg",
+    "sha256": "baca61ef2274ea1abec82bfde730edb8c67bbcb2e585a4d299c305b7f69b89c2",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4209
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/fd5b9ad41f9d4a7788111c90d11146ba51720710_02_2.jpg",
+    "filename": "fd5b9ad41f9d4a7788111c90d11146ba51720710_02_2.jpg",
+    "sha256": "1817ea05f1adfc291eb848e2ca93a75af93141ec242a462549fc098e9c8ecc12",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3227
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/fi.svg",
+    "filename": "fi.svg",
+    "sha256": "83783a7dc69702dfbb59833d81c309748ffb04574aab8ed1cb7589189c0f80d2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/fo.svg",
+    "filename": "fo.svg",
+    "sha256": "c0b32df51365a3947ddcda18c15575c5c617b75b29330d78e606e684f3304334",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 570
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/fr.svg",
+    "filename": "fr.svg",
+    "sha256": "63667b36ddd95d29a9f163e3ab4b9f7000dcd310350c565c19b975a0a2418117",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/gb.svg",
+    "filename": "gb.svg",
+    "sha256": "825310f9bcc8892559317bfc87fc28d5d7bad06c02d562b5740aafcf4b040803",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 538
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/gr.svg",
+    "filename": "gr.svg",
+    "sha256": "d22330d2af43ce22eab7d8ec9efdbe27ccd9ac1255f3bd289aa671db07fd0205",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1096
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/hr.svg",
+    "filename": "hr.svg",
+    "sha256": "b0b1d075c651e2ceb10f558b33a13c9dd89310edfbe67df0f46a7b5d8d550de6",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 40615
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/hu.svg",
+    "filename": "hu.svg",
+    "sha256": "470431d1ed0dc2099f20313f78f906848acaf9efce57c543d83b3b62f8b7a448",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 274
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/icone-per-PDP_FSC_6.png",
+    "filename": "icone-per-PDP_FSC_6.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/icone-per-PDP_FSC_7.png",
+    "filename": "icone-per-PDP_FSC_7.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/ie.svg",
+    "filename": "ie.svg",
+    "sha256": "4d73eedf98a4c487c352db58751ff766f05f6aa3bfac1ecc0f9384e50d019191",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/is.svg",
+    "filename": "is.svg",
+    "sha256": "89b266e3c5824fabc91b8d04a830a3f32c62484b49543bc3921e14c57ba6cb7e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 524
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/it.svg",
+    "filename": "it.svg",
+    "sha256": "2d46fd7fde3f19c3f278fe9028e6fab6fa997fbdda3e18116fb70e57cfc78598",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/jp.svg",
+    "filename": "jp.svg",
+    "sha256": "e759dccba5bc383814ab190daba0d12ef591ad9f161502a47222c2eacf770606",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 474
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/lt.svg",
+    "filename": "lt.svg",
+    "sha256": "9012691cb1689944fd0813b33b7a58fb97921944ec8988f23590fed21a1ff07c",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 442
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/lu.svg",
+    "filename": "lu.svg",
+    "sha256": "4622624d698a9577a3fb92bd4fa5f98f305d704bc51306b86d109c6c865d069a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 228
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/lv.svg",
+    "filename": "lv.svg",
+    "sha256": "dc67526a1833d2cd7c50d87f0da252e1fa2b361d7d418715535d3aa63e5a76b7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 233
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/Macron_4_the_planet_Packaging_2_1.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_1.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/Macron_4_the_planet_Packaging_2_2.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_2.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/md.svg",
+    "filename": "md.svg",
+    "sha256": "92475a7045515ebb11c2127a896010934a569a7d16adc4a702d41adf4565d440",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 11237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/mt.svg",
+    "filename": "mt.svg",
+    "sha256": "fd6a6cbf958e7d3b88070ded68716b2b85bc130acf68e3b0bbab05361dbab47d",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8733
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/nl.svg",
+    "filename": "nl.svg",
+    "sha256": "a91174a3cccd5ec66da2cc68e0cbf86a3ea73d2976dc303c72109198b2504b51",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 224
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/no.svg",
+    "filename": "no.svg",
+    "sha256": "c59f156ddd70507f05267dc35e2e4f3e44467b9ef414995abb91589dc486dd6a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/pl.svg",
+    "filename": "pl.svg",
+    "sha256": "bd8c588ce4c71594e5f3789b700c935e3c97e5c06e62ddb595752c805e90d851",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 222
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/pt.svg",
+    "filename": "pt.svg",
+    "sha256": "62137f64b8b37b24510095926415b3120029f0d57e97817209e895f9c50b26dd",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8280
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/ro.svg",
+    "filename": "ro.svg",
+    "sha256": "854593a65b29383274aabe385c4ff58794a2b5d4b89c5414a0ff11f96d016f1e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 305
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/se.svg",
+    "filename": "se.svg",
+    "sha256": "f15c8829e3f3e3ad94343f7677078bb6a5061156e752ac52cd589a253c60f4df",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/si.svg",
+    "filename": "si.svg",
+    "sha256": "25487f7aa91f115d558f031ffaf0d399924b032100d24d467c3bd1cb026d9001",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 2053
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/sk.svg",
+    "filename": "sk.svg",
+    "sha256": "4ca76c921fae3345c47f1f540cdaf3716a7807ffcba532caea50090c8bbecac2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1202
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/ua.svg",
+    "filename": "ua.svg",
+    "sha256": "fbbf0f0e9a6d6187561f38af9b3f28e3125e406c3deea268bcb64dac7a03a6aa",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 238
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 1/us.svg",
+    "filename": "us.svg",
+    "sha256": "c70ba1cb67cc649da2b1f5dc4a26891437d8bba2cc098c88461e6bfc23949d9e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 4461
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/006b6193ed6b8bd10ef9616d6a8a2478800002850301_10(1).jpg",
+    "filename": "006b6193ed6b8bd10ef9616d6a8a2478800002850301_10(1).jpg",
+    "sha256": "0add2b4df0bc83ba64a751e580c0aac5062c5f90a319d41b04454180660e95b3",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 112927
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/006b6193ed6b8bd10ef9616d6a8a2478800002850301_10.jpg",
+    "filename": "006b6193ed6b8bd10ef9616d6a8a2478800002850301_10.jpg",
+    "sha256": "b67b3fa7ff7749306ab4d592571f36ace1fcb3b0f08501717a0a9facdc83e7ea",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4437
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/12570759fe43b886767fa7d86e42857d800002850201_02.jpg",
+    "filename": "12570759fe43b886767fa7d86e42857d800002850201_02.jpg",
+    "sha256": "70eb7acbca25d446a0b4bcbb1354bb3b472cf523673c7917acb67c565241aa59",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3845
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/179ee0123b9bfe097d0acbc71acd1145800002850201_11.jpg",
+    "filename": "179ee0123b9bfe097d0acbc71acd1145800002850201_11.jpg",
+    "sha256": "bf808330ba9b932305732663b3ae34253d0249b602c2801b85dd97782bf38710",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3954
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/26cbb5cf83c18c6793b44cab269497f2800002850901_03.jpg",
+    "filename": "26cbb5cf83c18c6793b44cab269497f2800002850901_03.jpg",
+    "sha256": "69f90e93a674ed7b7c0159597428478037faa0fce9249d27b11eb257c7b4ad68",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3423
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/26f34e32f72d125e2d165c62cbbe60bf800002850201_10.jpg",
+    "filename": "26f34e32f72d125e2d165c62cbbe60bf800002850201_10.jpg",
+    "sha256": "59bf1f212f788f3b32d5b8065a8a6c97ed5804c3871638a6c58d6506db4c112f",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4599
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/3c695177ea875f2987a84c30825ed087800002850201(1).jpg",
+    "filename": "3c695177ea875f2987a84c30825ed087800002850201(1).jpg",
+    "sha256": "b0861c18c5cfa2a85ab18e88649c44514f2a83cf07f62b0007df6c9e6e3603de",
+    "status": "duplicate",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 102993
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/3c695177ea875f2987a84c30825ed087800002850201.jpg",
+    "filename": "3c695177ea875f2987a84c30825ed087800002850201.jpg",
+    "sha256": "77edcdc486edb12c53325656c12b1cd799f1f7f89efbf1b2606701a217210210",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4379
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/5db939e3013f6ae7025d187dd8dd3830800002850301(1).jpg",
+    "filename": "5db939e3013f6ae7025d187dd8dd3830800002850301(1).jpg",
+    "sha256": "f656fa0670832e9dd619d3ef602a8e080bc0fd387800a819abbb731bb02204d1",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 84256
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/5db939e3013f6ae7025d187dd8dd3830800002850301.jpg",
+    "filename": "5db939e3013f6ae7025d187dd8dd3830800002850301.jpg",
+    "sha256": "289aeba3235efe5c7e2c6e957554bcf2c5dba434161309d271a66bd2efd42faf",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4274
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/6d69eef2233777841463458d210203c8800002850901_10.jpg",
+    "filename": "6d69eef2233777841463458d210203c8800002850901_10.jpg",
+    "sha256": "1e617c0c27cf2a89c01ff74505060bf57f28e8a451ffff2352361f6151542802",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2938
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/8d157374d9184df2e3e226a193f94ecc800002850901_11.jpg",
+    "filename": "8d157374d9184df2e3e226a193f94ecc800002850901_11.jpg",
+    "sha256": "0a326dc4ab408229a2be12663e9f40b29e6ff28889c3d3f6b009f4264a335034",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2597
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/949d2e7ac0c06eca624c58e7840e7cc3800002850901_02.jpg",
+    "filename": "949d2e7ac0c06eca624c58e7840e7cc3800002850901_02.jpg",
+    "sha256": "18895d06fea9da3c2c3b89504818c167822a37a04cecb4baec371965115cc217",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2547
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/9aba9388a1bcdb42b9b3005c9a0f7b22800002850301_02(1).jpg",
+    "filename": "9aba9388a1bcdb42b9b3005c9a0f7b22800002850301_02(1).jpg",
+    "sha256": "f7d85d02cad595f2471bfb2dea845ac2fdb7b91aaa5b7dad07a94447be5e441a",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 73551
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/9aba9388a1bcdb42b9b3005c9a0f7b22800002850301_02.jpg",
+    "filename": "9aba9388a1bcdb42b9b3005c9a0f7b22800002850301_02.jpg",
+    "sha256": "03a6cdf6dc52e77fc45603ccf7553b8c786b7a50c88a000dd7c609cbd82636f2",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3792
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/9e6a567f09b93cf28931bcdd7d148378800002850301_11(1).jpg",
+    "filename": "9e6a567f09b93cf28931bcdd7d148378800002850301_11(1).jpg",
+    "sha256": "b17d2eb23d49b3a4898d1fd916715c453c0ecbca03859836815d67084875d6ea",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 93574
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/9e6a567f09b93cf28931bcdd7d148378800002850301_11.jpg",
+    "filename": "9e6a567f09b93cf28931bcdd7d148378800002850301_11.jpg",
+    "sha256": "f5431cb054dcc56e8d0b44ec38f2014eb7191d2476166a28e0859243d655c2cb",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3834
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/al.svg",
+    "filename": "al.svg",
+    "sha256": "87476e4c4b339983bcda71637a718eed1670bed1e39d7419db41b8f9db3a9485",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 3206
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/at.svg",
+    "filename": "at.svg",
+    "sha256": "1e513e59cf959d38287ad72edc6f07cda754b7621efb04ed74c333df73ff4176",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 240
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/au.svg",
+    "filename": "au.svg",
+    "sha256": "213bcc5e8c0c7defccd96f191f39e53f873da8129e55d230faafdd683d4168f9",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1546
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/b10aaebc92b6cfc20ef21ccd9249f7ed800002850901.jpg",
+    "filename": "b10aaebc92b6cfc20ef21ccd9249f7ed800002850901.jpg",
+    "sha256": "5a9d722175640cbc2a8f3d0b24b0a0840ff850015bfccd344b201b773bfc9e09",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2846
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/bc3f656e8063106b0264f696b6eeda32800002850301_03(1).jpg",
+    "filename": "bc3f656e8063106b0264f696b6eeda32800002850301_03(1).jpg",
+    "sha256": "814fa3403824be05cb25d4b270f19f58c6331f1742991c11df8e082d12b7519e",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 184072
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/bc3f656e8063106b0264f696b6eeda32800002850301_03.jpg",
+    "filename": "bc3f656e8063106b0264f696b6eeda32800002850301_03.jpg",
+    "sha256": "3873c45a43522057c0de081345edb0d3475cd28d7fc7740eaaca80b35ba91d75",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5692
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/be.svg",
+    "filename": "be.svg",
+    "sha256": "b3df2b94815bb9f38846ee9bf98e13f70cee99f9b08d80b95f96117255bb14ae",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 290
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/bg.svg",
+    "filename": "bg.svg",
+    "sha256": "c67e049a9f003f098e554808e74e3359970e4df9adcfb69b33dcb7bfd5b7a8c5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 286
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/c0aa488880d9cc37818f6fda802b7be9800002850201_03.jpg",
+    "filename": "c0aa488880d9cc37818f6fda802b7be9800002850201_03.jpg",
+    "sha256": "2e122dcffc63d9bfc77f119d182e083333131c5bed574a59af715140a82b7d41",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5764
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/ch.svg",
+    "filename": "ch.svg",
+    "sha256": "4e94e5c3a524345e7c24f3807ab2ca812225ea6ccdb59ec67125b0ea3ed02cd5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 297
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/cy.svg",
+    "filename": "cy.svg",
+    "sha256": "88d041c0eec06dab21e4d9c777ead616f2ab97eedef8b619f78f95dd51e74ab7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 5866
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/cz.svg",
+    "filename": "cz.svg",
+    "sha256": "265906e27b7bc9169b39564713880f07af8ffd23a178ebb75f90224c684719f1",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/de.svg",
+    "filename": "de.svg",
+    "sha256": "226631a8fa9deee07022680ce0461b7a09b416b616c56ebcaf21f50e2b34ea8f",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 213
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/dk.svg",
+    "filename": "dk.svg",
+    "sha256": "c29517b4eb6b056475330a26a3f929c0523ef80268a8457ca5d44a7def3cdf44",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 239
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/ee.svg",
+    "filename": "ee.svg",
+    "sha256": "b4c2ebcd79e821fb8ee37e39d688560a79dee100a981402224a4f2bd9762e41e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/es.svg",
+    "filename": "es.svg",
+    "sha256": "ab3d438837b7f1c4ebce6980cc9274cd2e6adcc8af9be6f5cfc47ef2c4c464e3",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 90819
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/fi.svg",
+    "filename": "fi.svg",
+    "sha256": "83783a7dc69702dfbb59833d81c309748ffb04574aab8ed1cb7589189c0f80d2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/fo.svg",
+    "filename": "fo.svg",
+    "sha256": "c0b32df51365a3947ddcda18c15575c5c617b75b29330d78e606e684f3304334",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 570
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/fr.svg",
+    "filename": "fr.svg",
+    "sha256": "63667b36ddd95d29a9f163e3ab4b9f7000dcd310350c565c19b975a0a2418117",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/gb.svg",
+    "filename": "gb.svg",
+    "sha256": "825310f9bcc8892559317bfc87fc28d5d7bad06c02d562b5740aafcf4b040803",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 538
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/gr.svg",
+    "filename": "gr.svg",
+    "sha256": "d22330d2af43ce22eab7d8ec9efdbe27ccd9ac1255f3bd289aa671db07fd0205",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1096
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/hr.svg",
+    "filename": "hr.svg",
+    "sha256": "b0b1d075c651e2ceb10f558b33a13c9dd89310edfbe67df0f46a7b5d8d550de6",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 40615
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/hu.svg",
+    "filename": "hu.svg",
+    "sha256": "470431d1ed0dc2099f20313f78f906848acaf9efce57c543d83b3b62f8b7a448",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 274
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/icone-per-PDP_FSC_6.png",
+    "filename": "icone-per-PDP_FSC_6.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/icone-per-PDP_FSC_7.png",
+    "filename": "icone-per-PDP_FSC_7.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/ie.svg",
+    "filename": "ie.svg",
+    "sha256": "4d73eedf98a4c487c352db58751ff766f05f6aa3bfac1ecc0f9384e50d019191",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/is.svg",
+    "filename": "is.svg",
+    "sha256": "89b266e3c5824fabc91b8d04a830a3f32c62484b49543bc3921e14c57ba6cb7e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 524
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/it.svg",
+    "filename": "it.svg",
+    "sha256": "2d46fd7fde3f19c3f278fe9028e6fab6fa997fbdda3e18116fb70e57cfc78598",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/jp.svg",
+    "filename": "jp.svg",
+    "sha256": "e759dccba5bc383814ab190daba0d12ef591ad9f161502a47222c2eacf770606",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 474
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/lt.svg",
+    "filename": "lt.svg",
+    "sha256": "9012691cb1689944fd0813b33b7a58fb97921944ec8988f23590fed21a1ff07c",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 442
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/lu.svg",
+    "filename": "lu.svg",
+    "sha256": "4622624d698a9577a3fb92bd4fa5f98f305d704bc51306b86d109c6c865d069a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 228
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/lv.svg",
+    "filename": "lv.svg",
+    "sha256": "dc67526a1833d2cd7c50d87f0da252e1fa2b361d7d418715535d3aa63e5a76b7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 233
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/Macron_4_the_planet_Packaging_2_1.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_1.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/Macron_4_the_planet_Packaging_2_2.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_2.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/md.svg",
+    "filename": "md.svg",
+    "sha256": "92475a7045515ebb11c2127a896010934a569a7d16adc4a702d41adf4565d440",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 11237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/mt.svg",
+    "filename": "mt.svg",
+    "sha256": "fd6a6cbf958e7d3b88070ded68716b2b85bc130acf68e3b0bbab05361dbab47d",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8733
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/nl.svg",
+    "filename": "nl.svg",
+    "sha256": "a91174a3cccd5ec66da2cc68e0cbf86a3ea73d2976dc303c72109198b2504b51",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 224
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/no.svg",
+    "filename": "no.svg",
+    "sha256": "c59f156ddd70507f05267dc35e2e4f3e44467b9ef414995abb91589dc486dd6a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/pl.svg",
+    "filename": "pl.svg",
+    "sha256": "bd8c588ce4c71594e5f3789b700c935e3c97e5c06e62ddb595752c805e90d851",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 222
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/pt.svg",
+    "filename": "pt.svg",
+    "sha256": "62137f64b8b37b24510095926415b3120029f0d57e97817209e895f9c50b26dd",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8280
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/ro.svg",
+    "filename": "ro.svg",
+    "sha256": "854593a65b29383274aabe385c4ff58794a2b5d4b89c5414a0ff11f96d016f1e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 305
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/se.svg",
+    "filename": "se.svg",
+    "sha256": "f15c8829e3f3e3ad94343f7677078bb6a5061156e752ac52cd589a253c60f4df",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/si.svg",
+    "filename": "si.svg",
+    "sha256": "25487f7aa91f115d558f031ffaf0d399924b032100d24d467c3bd1cb026d9001",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 2053
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/sk.svg",
+    "filename": "sk.svg",
+    "sha256": "4ca76c921fae3345c47f1f540cdaf3716a7807ffcba532caea50090c8bbecac2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1202
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/ua.svg",
+    "filename": "ua.svg",
+    "sha256": "fbbf0f0e9a6d6187561f38af9b3f28e3125e406c3deea268bcb64dac7a03a6aa",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 238
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 2/us.svg",
+    "filename": "us.svg",
+    "sha256": "c70ba1cb67cc649da2b1f5dc4a26891437d8bba2cc098c88461e6bfc23949d9e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 4461
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130109(1).jpg",
+    "filename": "46130109(1).jpg",
+    "sha256": "57616a9cd9d66e066d9d8161a69beb00ffdf6baa177595ecfd568153fa9620d1",
+    "status": "duplicate",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 129216
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130109.jpg",
+    "filename": "46130109.jpg",
+    "sha256": "94e1f6456fc2410a56eae5aadb712b5889b23bdabd5218caf73bc0f77bbe3d82",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3938
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130109_02.jpg",
+    "filename": "46130109_02.jpg",
+    "sha256": "056a78c1887188be897497ac5a4c683fc4ffbbd534ad9a37257c5cd734307465",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 2794
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130109_03.jpg",
+    "filename": "46130109_03.jpg",
+    "sha256": "5434f1a2b616816aa2b3cd4888e6911ff974f351c15d336c3be60c218d695fd9",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5063
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130109_10.jpg",
+    "filename": "46130109_10.jpg",
+    "sha256": "ff86fd373a581f80ee681e10b68e099764fe5a12302fc1b6900b1f68c3ba61af",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3974
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130109_11.jpg",
+    "filename": "46130109_11.jpg",
+    "sha256": "46b8c26558390b2f6c9a1ab7046c2eeaf205578f641808b719a11c907128d876",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 3080
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309(1).jpg",
+    "filename": "46130309(1).jpg",
+    "sha256": "b14e4eb0edb9a49066407f4b9da10ff2868d24885ed918322669477192edcdfe",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 152307
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309.jpg",
+    "filename": "46130309.jpg",
+    "sha256": "be9d0eb61f3f2fa45809c155224aba83b100fde939e0dc72add3fe1b82d51d9b",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5670
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_02(1).jpg",
+    "filename": "46130309_02(1).jpg",
+    "sha256": "e8502a6edc2295834621345d72d4c8bcb52d529240555fb07d8f460e3c87a06b",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 105244
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_02.jpg",
+    "filename": "46130309_02.jpg",
+    "sha256": "afb99288b2cc8bacf623250019b8c750f37a07945eaa3d91d678796c53feda0c",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4529
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_03(1).jpg",
+    "filename": "46130309_03(1).jpg",
+    "sha256": "b108b0c112f3a52fd56d7fa0a54987c82625a93540f33cbfd9e3ccc744ab6ba9",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 280804
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_03.jpg",
+    "filename": "46130309_03.jpg",
+    "sha256": "7289c61f7ffcf846516e1b82b69d22dfc64141879408193bb1a4d6fb5dca586f",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 6956
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_10(1).jpg",
+    "filename": "46130309_10(1).jpg",
+    "sha256": "762d6129964b71a63953d241c94446a863afcba29e3cfa073f486bbb8431fe62",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 140475
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_10.jpg",
+    "filename": "46130309_10.jpg",
+    "sha256": "6d841d6b060cb7450f9b2317c6e455c1b359d47b3f6f1e32af76719ac7ca0cfe",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 5736
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_11(1).jpg",
+    "filename": "46130309_11(1).jpg",
+    "sha256": "57f8c750073883dc5ec5356576f31799a43380bacbf73e62a67d6a4ac84342bf",
+    "status": "used",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 107089
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/46130309_11.jpg",
+    "filename": "46130309_11.jpg",
+    "sha256": "a0c164772b82dab1c271befa48a3c379fed81fe2b6efbfc1568f0688835b02c9",
+    "status": "alternate_color_or_resolution",
+    "width": 117,
+    "height": 117,
+    "bytes": 4688
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/al.svg",
+    "filename": "al.svg",
+    "sha256": "87476e4c4b339983bcda71637a718eed1670bed1e39d7419db41b8f9db3a9485",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 3206
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/at.svg",
+    "filename": "at.svg",
+    "sha256": "1e513e59cf959d38287ad72edc6f07cda754b7621efb04ed74c333df73ff4176",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 240
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/au.svg",
+    "filename": "au.svg",
+    "sha256": "213bcc5e8c0c7defccd96f191f39e53f873da8129e55d230faafdd683d4168f9",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1546
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/be.svg",
+    "filename": "be.svg",
+    "sha256": "b3df2b94815bb9f38846ee9bf98e13f70cee99f9b08d80b95f96117255bb14ae",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 290
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/bg.svg",
+    "filename": "bg.svg",
+    "sha256": "c67e049a9f003f098e554808e74e3359970e4df9adcfb69b33dcb7bfd5b7a8c5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 286
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/ch.svg",
+    "filename": "ch.svg",
+    "sha256": "4e94e5c3a524345e7c24f3807ab2ca812225ea6ccdb59ec67125b0ea3ed02cd5",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 297
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/cy.svg",
+    "filename": "cy.svg",
+    "sha256": "88d041c0eec06dab21e4d9c777ead616f2ab97eedef8b619f78f95dd51e74ab7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 5866
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/cz.svg",
+    "filename": "cz.svg",
+    "sha256": "265906e27b7bc9169b39564713880f07af8ffd23a178ebb75f90224c684719f1",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/de.svg",
+    "filename": "de.svg",
+    "sha256": "226631a8fa9deee07022680ce0461b7a09b416b616c56ebcaf21f50e2b34ea8f",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 213
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/dk.svg",
+    "filename": "dk.svg",
+    "sha256": "c29517b4eb6b056475330a26a3f929c0523ef80268a8457ca5d44a7def3cdf44",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 239
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/ee.svg",
+    "filename": "ee.svg",
+    "sha256": "b4c2ebcd79e821fb8ee37e39d688560a79dee100a981402224a4f2bd9762e41e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/es.svg",
+    "filename": "es.svg",
+    "sha256": "ab3d438837b7f1c4ebce6980cc9274cd2e6adcc8af9be6f5cfc47ef2c4c464e3",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 90819
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/fi.svg",
+    "filename": "fi.svg",
+    "sha256": "83783a7dc69702dfbb59833d81c309748ffb04574aab8ed1cb7589189c0f80d2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/fo.svg",
+    "filename": "fo.svg",
+    "sha256": "c0b32df51365a3947ddcda18c15575c5c617b75b29330d78e606e684f3304334",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 570
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/fr.svg",
+    "filename": "fr.svg",
+    "sha256": "63667b36ddd95d29a9f163e3ab4b9f7000dcd310350c565c19b975a0a2418117",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/gb.svg",
+    "filename": "gb.svg",
+    "sha256": "825310f9bcc8892559317bfc87fc28d5d7bad06c02d562b5740aafcf4b040803",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 538
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/gr.svg",
+    "filename": "gr.svg",
+    "sha256": "d22330d2af43ce22eab7d8ec9efdbe27ccd9ac1255f3bd289aa671db07fd0205",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1096
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/hr.svg",
+    "filename": "hr.svg",
+    "sha256": "b0b1d075c651e2ceb10f558b33a13c9dd89310edfbe67df0f46a7b5d8d550de6",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 40615
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/hu.svg",
+    "filename": "hu.svg",
+    "sha256": "470431d1ed0dc2099f20313f78f906848acaf9efce57c543d83b3b62f8b7a448",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 274
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/icone-per-PDP_FSC_6.png",
+    "filename": "icone-per-PDP_FSC_6.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/icone-per-PDP_FSC_7.png",
+    "filename": "icone-per-PDP_FSC_7.png",
+    "sha256": "95541dea6ffe1eca618e4646da9b6d5236d9a62337b5331d6500006cb38e7da6",
+    "status": "accessory",
+    "width": 400,
+    "height": 473,
+    "bytes": 16748
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/ie.svg",
+    "filename": "ie.svg",
+    "sha256": "4d73eedf98a4c487c352db58751ff766f05f6aa3bfac1ecc0f9384e50d019191",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/is.svg",
+    "filename": "is.svg",
+    "sha256": "89b266e3c5824fabc91b8d04a830a3f32c62484b49543bc3921e14c57ba6cb7e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 524
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/it.svg",
+    "filename": "it.svg",
+    "sha256": "2d46fd7fde3f19c3f278fe9028e6fab6fa997fbdda3e18116fb70e57cfc78598",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 292
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/jp.svg",
+    "filename": "jp.svg",
+    "sha256": "e759dccba5bc383814ab190daba0d12ef591ad9f161502a47222c2eacf770606",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 474
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/lt.svg",
+    "filename": "lt.svg",
+    "sha256": "9012691cb1689944fd0813b33b7a58fb97921944ec8988f23590fed21a1ff07c",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 442
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/lu.svg",
+    "filename": "lu.svg",
+    "sha256": "4622624d698a9577a3fb92bd4fa5f98f305d704bc51306b86d109c6c865d069a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 228
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/lv.svg",
+    "filename": "lv.svg",
+    "sha256": "dc67526a1833d2cd7c50d87f0da252e1fa2b361d7d418715535d3aa63e5a76b7",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 233
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/Macron_4_the_planet_Packaging_2_1.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_1.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/Macron_4_the_planet_Packaging_2_2.jpg",
+    "filename": "Macron_4_the_planet_Packaging_2_2.jpg",
+    "sha256": "c49d523accbbefff272c16a4a9e4d0d388cf5d1cb5b4fe93f7b8e3f0b16d2279",
+    "status": "accessory",
+    "width": 200,
+    "height": 200,
+    "bytes": 24742
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/md.svg",
+    "filename": "md.svg",
+    "sha256": "92475a7045515ebb11c2127a896010934a569a7d16adc4a702d41adf4565d440",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 11237
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/mt.svg",
+    "filename": "mt.svg",
+    "sha256": "fd6a6cbf958e7d3b88070ded68716b2b85bc130acf68e3b0bbab05361dbab47d",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8733
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/nl.svg",
+    "filename": "nl.svg",
+    "sha256": "a91174a3cccd5ec66da2cc68e0cbf86a3ea73d2976dc303c72109198b2504b51",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 224
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/no.svg",
+    "filename": "no.svg",
+    "sha256": "c59f156ddd70507f05267dc35e2e4f3e44467b9ef414995abb91589dc486dd6a",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 321
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/pl.svg",
+    "filename": "pl.svg",
+    "sha256": "bd8c588ce4c71594e5f3789b700c935e3c97e5c06e62ddb595752c805e90d851",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 222
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/pt.svg",
+    "filename": "pt.svg",
+    "sha256": "62137f64b8b37b24510095926415b3120029f0d57e97817209e895f9c50b26dd",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 8280
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/ro.svg",
+    "filename": "ro.svg",
+    "sha256": "854593a65b29383274aabe385c4ff58794a2b5d4b89c5414a0ff11f96d016f1e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 305
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/se.svg",
+    "filename": "se.svg",
+    "sha256": "f15c8829e3f3e3ad94343f7677078bb6a5061156e752ac52cd589a253c60f4df",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 231
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/si.svg",
+    "filename": "si.svg",
+    "sha256": "25487f7aa91f115d558f031ffaf0d399924b032100d24d467c3bd1cb026d9001",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 2053
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/sk.svg",
+    "filename": "sk.svg",
+    "sha256": "4ca76c921fae3345c47f1f540cdaf3716a7807ffcba532caea50090c8bbecac2",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 1202
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/ua.svg",
+    "filename": "ua.svg",
+    "sha256": "fbbf0f0e9a6d6187561f38af9b3f28e3125e406c3deea268bcb64dac7a03a6aa",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 238
+  },
+  {
+    "path": "assets/kits/1. MAGLIETTE/RDM 3/us.svg",
+    "filename": "us.svg",
+    "sha256": "c70ba1cb67cc649da2b1f5dc4a26891437d8bba2cc098c88461e6bfc23949d9e",
+    "status": "accessory",
+    "width": null,
+    "height": null,
+    "bytes": 4461
+  }
+]

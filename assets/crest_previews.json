@@ -1,0 +1,134 @@
+{
+  "energetici_fc": {
+    "front": "assets/mockups/energetici_fc/front_with_crest.png",
+    "detail": "assets/mockups/energetici_fc/detail_with_crest.png",
+    "source": "assets/kits/energetici_fc/front.jpg",
+    "logo": "assets/logos/energetici_fc/logo.jpeg",
+    "crest_box": [
+      602,
+      197,
+      674,
+      274
+    ],
+    "detail_crop": [
+      380,
+      50,
+      940,
+      610
+    ],
+    "width": 1000,
+    "height": 1000,
+    "source_sha256": "0b4247b262ac53b31c26d1cf5ad1c171d775e5df070ca27989f5d7b4cccedae6",
+    "logo_sha256": "f7dde5c8aa72d7563d8fc2548890d9ea75e74bbd3f83a00c51bfd02314f19e9c"
+  },
+  "renewables": {
+    "front": "assets/mockups/renewables/front_with_crest.png",
+    "detail": "assets/mockups/renewables/detail_with_crest.png",
+    "source": "assets/kits/renewables/front.jpg",
+    "logo": "assets/logos/renewables/logo.jpeg",
+    "crest_box": [
+      605,
+      189,
+      675,
+      266
+    ],
+    "detail_crop": [
+      380,
+      50,
+      940,
+      610
+    ],
+    "width": 1000,
+    "height": 1000,
+    "source_sha256": "32c0e606d2195641d745b2691c0fff3c037df93b735ab3782e8dffb05981934e",
+    "logo_sha256": "9f3fa4651b91443f1714a1813f5674fc988eb53e1a77640b5d3501cbf3a7e516"
+  },
+  "energentus": {
+    "front": "assets/mockups/energentus/front_with_crest.png",
+    "detail": "assets/mockups/energentus/detail_with_crest.png",
+    "source": "assets/kits/energentus/front.jpg",
+    "logo": "assets/logos/energentus/logo.png",
+    "crest_box": [
+      604,
+      169,
+      664,
+      263
+    ],
+    "detail_crop": [
+      380,
+      50,
+      940,
+      610
+    ],
+    "width": 1000,
+    "height": 1000,
+    "source_sha256": "f2173adad9b9b4cf340e4844c1ac4bf10f3b680cac9ec66417865db01f955c85",
+    "logo_sha256": "82368d8b1a6365cc966110fd7b7df963897cbe6a8984a6984f84b3ac3d52c85b"
+  },
+  "rdm_fc": {
+    "front": "assets/mockups/rdm_fc/front_with_crest.png",
+    "detail": "assets/mockups/rdm_fc/detail_with_crest.png",
+    "source": "assets/kits/rdm_fc/front.jpg",
+    "logo": "assets/logos/rdm_fc/logo.jpeg",
+    "crest_box": [
+      604,
+      185,
+      672,
+      271
+    ],
+    "detail_crop": [
+      380,
+      50,
+      940,
+      610
+    ],
+    "width": 1000,
+    "height": 1000,
+    "source_sha256": "22dee6406e0482c16eba0e3207cc7dad794d2d053070f0a0f9488251671d3792",
+    "logo_sha256": "f72558dc1693bfb09cb93cf3562b8d3920e45b0810f8e4b515be65e459b0009c"
+  },
+  "rdm_world": {
+    "front": "assets/mockups/rdm_world/front_with_crest.png",
+    "detail": "assets/mockups/rdm_world/detail_with_crest.png",
+    "source": "assets/kits/rdm_world/front.jpg",
+    "logo": "assets/logos/rdm_world/logo.jpeg",
+    "crest_box": [
+      609,
+      185,
+      672,
+      269
+    ],
+    "detail_crop": [
+      380,
+      50,
+      940,
+      610
+    ],
+    "width": 1000,
+    "height": 1000,
+    "source_sha256": "0add2b4df0bc83ba64a751e580c0aac5062c5f90a319d41b04454180660e95b3",
+    "logo_sha256": "2c071ae6727298b8923bc4b416eeb1061b2f39a61e73d0ba4a045d836c3838ab"
+  },
+  "rdm_internazionale": {
+    "front": "assets/mockups/rdm_internazionale/front_with_crest.png",
+    "detail": "assets/mockups/rdm_internazionale/detail_with_crest.png",
+    "source": "assets/kits/rdm_internazionale/front.jpg",
+    "logo": "assets/logos/rdm_internazionale/logo.jpeg",
+    "crest_box": [
+      598,
+      178,
+      670,
+      250
+    ],
+    "detail_crop": [
+      380,
+      50,
+      940,
+      610
+    ],
+    "width": 1000,
+    "height": 1000,
+    "source_sha256": "762d6129964b71a63953d241c94446a863afcba29e3cfa073f486bbb8431fe62",
+    "logo_sha256": "1a7554db44bfb9bd9ee2f2242c9ff10dcf0e8f80dfad651f47183de9c63a1ffd"
+  }
+}

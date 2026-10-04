@@ -1,0 +1,9 @@
+.env
+.venv/
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+*.pyc
+runtime/assets_audit/
+runtime/protected_before.json
+assets/kits/1. MAGLIETTE/
