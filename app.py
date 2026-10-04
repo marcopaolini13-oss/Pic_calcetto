@@ -25,7 +25,7 @@ try:
         if st.session_state.get('participant_signature')!=signature:
             reset_vote()
             st.session_state.participant_signature=signature
-        if st.session_state.get('vote_success'):
+        if st.session_state.get('vote_success') and lookup[selected]['submitted']:
             st.success('VOTO REGISTRATO ✓')
         wizard(db,lookup[selected])
 except DatabaseError as exc:

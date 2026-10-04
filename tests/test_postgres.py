@@ -1,6 +1,16 @@
 from concurrent.futures import ThreadPoolExecutor
 import subprocess
 import pytest
+from pathlib import Path
+
+def test_selected_reset_and_resubmission(request):
+    container=request.config.getoption('--postgres-container')
+    if not container:
+        pytest.skip('Richiede container PostgreSQL di test esplicito')
+    sql=(Path(__file__).resolve().parents[1]/'sql'/'verify_reset.sql').read_text(encoding='utf-8')
+    result=subprocess.run(['docker','exec','-i',container,'psql','-U','postgres','-v','ON_ERROR_STOP=1'],
+                          input=sql,capture_output=True,text=True,encoding='utf-8')
+    assert result.returncode==0,result.stderr
 
 def test_concurrent_submit(request):
     container=request.config.getoption('--postgres-container')

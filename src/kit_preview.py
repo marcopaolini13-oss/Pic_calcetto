@@ -3,7 +3,7 @@ from dataclasses import dataclass,field
 from pathlib import Path
 from io import BytesIO
 import streamlit as st
-from PIL import Image,ImageFilter
+from PIL import Image,ImageFilter,ImageDraw,ImageFont
 from src.config import ROOT,CONCEPTS
 from scripts.apply_crests import cutout,PLACEMENTS
 from functools import lru_cache
@@ -60,3 +60,29 @@ def preview(selected_logo,selected_kit,logo_path):
     except (OSError,ValueError):
         pass
     return compose(front_bytes,logo_bytes,selected_logo,selected_kit)
+
+@st.cache_data(show_spinner=False,max_entries=64)
+def with_sponsor(front_preview,sponsor_label):
+    """Apply the actual sponsor name to the real chest; keep source photos intact."""
+    text=sponsor_label.strip()
+    if not text or len(text)>120:
+        raise ValueError('Invalid sponsor label')
+    with Image.open(BytesIO(front_preview.data)) as im:
+        base=im.convert('RGB')
+    draw=ImageDraw.Draw(base)
+    def font_at(size):
+        for font in ('DejaVuSans-Bold.ttf','arialbd.ttf'):
+            try: return ImageFont.truetype(font,size)
+            except OSError: pass
+        return ImageFont.load_default(size=size)
+    # Fit lettering inside the torso, below both chest badges. Outlined white
+    # printing remains readable on solid and striped fabrics without a panel.
+    for size in range(34,9,-1):
+        font=font_at(size)
+        if draw.textbbox((0,0),text,font=font,stroke_width=2)[2]<=350:
+            break
+    draw.text((500,340),text,font=font,anchor='mm',fill='white',stroke_width=2,stroke_fill='#18202b')
+    full=BytesIO();base.save(full,format='PNG')
+    detail=BytesIO();base.crop((220,70,780,630)).save(detail,format='PNG')
+    return [PreviewImage('front_with_sponsor',full.getvalue(),front_preview.selected_logo,front_preview.selected_kit),
+            PreviewImage('detail_with_sponsor',detail.getvalue(),front_preview.selected_logo,front_preview.selected_kit)]

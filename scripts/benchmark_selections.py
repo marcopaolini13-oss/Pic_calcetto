@@ -35,6 +35,8 @@ if __name__ == '__main__':
         app.selectbox[0].select('benchmark').run()
         app.button(key='vote_name_energentus').click().run()
         app.button(key='next_1').click().run()
+        app.button(key='vote_sponsor_1').click().run()
+        app.button(key='next_2').click().run()
         durations = []
         for kit in ('renewables', 'energentus', 'energetici_fc') * 2:
             start = perf_counter()

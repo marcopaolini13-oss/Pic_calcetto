@@ -102,6 +102,8 @@ Il test di concorrenza separato si abilita con `python -m pytest -q --postgres-c
 
 ## Prima del link ai colleghi
 
+Per l'aggiornamento con **nome/logo → sponsor → maglia**, preview con sponsor, dashboard risultati e reset selettivo delle prove, segui [ADMIN_LAUNCH.md](ADMIN_LAUNCH.md). La migrazione `sql/migrations/001_admin_reset_votes.sql` aggiunge una RPC riservata al server e non esegue reset automaticamente. Lo schema iniziale non va rieseguito.
+
 ### Ottimizzazione delle selezioni
 
 Il wizard riutilizza immagini decodificate e copie di visualizzazione compresse, senza ingrandire le sorgenti o modificare gli originali. Lo zoom conserva la risoluzione disponibile. Le miniature nella galleria servono solo alla navigazione; le immagini principali provengono dagli asset ad alta risoluzione.

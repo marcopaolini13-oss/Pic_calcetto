@@ -1,15 +1,18 @@
 import streamlit as st
-from collections import Counter
 from src.auth import require_admin
 from src.config import TEAMS, CONCEPTS
 from src.database import Database, DatabaseError
 from src.ui import style
 from src.utils import csv_bytes
+from src.admin_results import ranking,vote_details
+from src.admin_reset import reset_selected_votes
 
 st.set_page_config(page_title='Admin · FAVERO',page_icon='🔐',layout='wide')
 style()
 require_admin()
 st.title('Gestione contest · Paolo')
+if notice:=st.session_state.pop('admin_reset_notice',None):
+    st.success(notice)
 try:
     db=Database()
     people=db.participants()
@@ -27,7 +30,7 @@ try:
         if st.button('Salva configurazione'):
             db.rpc('set_contest_open',p_open=active)
             st.rerun()
-    participants_tab,sponsors_tab,results_tab,export_tab=st.tabs(['Partecipanti','Sponsor','Risultati','Export'])
+    results_tab,participants_tab,sponsors_tab,export_tab,reset_tab=st.tabs(['Risultati','Partecipanti','Sponsor','Export','Reset prove'])
     with participants_tab:
         st.dataframe([{'Nome':p['full_name'],'Squadra':TEAMS[p['team']], 'Stato voto':'Registrato' if p['submitted'] else 'In attesa'} for p in people],hide_index=True,width='stretch')
         with st.form('add_person',clear_on_submit=True):
@@ -66,18 +69,33 @@ try:
                         db.rpc('update_sponsors',p_team=team,p_names=names)
                         st.rerun()
     with results_tab:
+        st.caption('Risultati riservati all’organizzatore. Nome e logo sono una scelta unica; sponsor e maglia sono indipendenti.')
         for team,label in TEAMS.items():
-            st.header(label)
-            team_votes=[v for v in votes if v['team']==team]
-            st.caption(f'{len(team_votes)} voti definitivi')
-            for field,title in [('team_name_choice','Nome squadra'),('sponsor_id','Sponsor'),('crest_choice','Stemma'),('kit_choice','Maglia')]:
-                st.subheader(title)
-                options={s['id']:s['sponsor_name'] for s in sponsors if s['team']==team} if field=='sponsor_id' else CONCEPTS[team]
-                counts=Counter(v[field] for v in team_votes)
-                for value,text in options.items():
-                    count=counts[value]
-                    fraction=count/len(team_votes) if team_votes else 0
-                    st.progress(fraction,text=f'{text} · {count} voti · {fraction:.1%}')
+            with st.container(border=True):
+                st.header(label)
+                team_votes=[v for v in votes if v['team']==team]
+                team_people=[p for p in people if p['team']==team]
+                a,b,c=st.columns(3)
+                a.metric('Voti ricevuti',len(team_votes))
+                b.metric('In attesa',max(0,len(team_people)-len(team_votes)))
+                c.metric('Completamento',f'{len(team_votes)/len(team_people):.0%}' if team_people else '0%')
+                for col,(field,title) in zip(st.columns(3),[('team_name_choice','Nome e logo'),('sponsor_id','Sponsor'),('kit_choice','Maglia')]):
+                    with col:
+                        st.subheader(title)
+                        options={s['id']:s['sponsor_name'] for s in sponsors if s['team']==team} if field=='sponsor_id' else CONCEPTS[team]
+                        rows=ranking(team_votes,options,field)
+                        if team_votes and rows:
+                            best=rows[0]['Voti']
+                            winners=[r['Scelta'] for r in rows if r['Voti']==best]
+                            st.write(('In testa: ' if len(winners)==1 else 'Pari merito: ')+' · '.join(winners))
+                        st.dataframe(rows,hide_index=True,width='stretch')
+        st.subheader('Dettaglio voti')
+        filter_team=st.selectbox('Filtra squadra',['Tutte',*TEAMS],format_func=lambda t:TEAMS.get(t,t))
+        filtered=votes if filter_team=='Tutte' else [v for v in votes if v['team']==filter_team]
+        if filtered:
+            st.dataframe(vote_details(filtered,people,sponsors),hide_index=True,width='stretch')
+        else:
+            st.info('Nessun voto registrato per questa selezione.')
     with export_tab:
         participant_map={p['id']:p['full_name'] for p in people}
         sponsor_map={s['id']:s['sponsor_name'] for s in sponsors}
@@ -85,6 +103,26 @@ try:
                  'sponsor_name':sponsor_map.get(v['sponsor_id'],'')} for v in votes]
         st.download_button('ESPORTA RISULTATI CSV',csv_bytes(export),file_name='favero_voti.csv',mime='text/csv',disabled=not votes)
         st.caption('Il CSV contiene voti definitivi e nominativi. Conservalo in un archivio aziendale riservato.')
+    with reset_tab:
+        st.subheader('Reset dei voti di prova')
+        st.write('Seleziona soltanto i partecipanti delle prove: vengono eliminati i loro voti e potranno votare di nuovo. Gli altri voti e i partecipanti restano invariati.')
+        st.caption('Per attivare questa funzione, esegui una volta la migrazione sql/migrations/001_admin_reset_votes.sql nel progetto Calcetto FAVERO. Non esegue alcun reset da sola.')
+        submitted={p['id']:p for p in people if p['submitted']}
+        if not submitted:
+            st.info('Non ci sono voti da resettare.')
+        else:
+            with st.form('admin_reset_form',clear_on_submit=True):
+                selected_ids=st.multiselect('Partecipanti di prova da resettare',list(submitted),
+                    format_func=lambda pid:submitted[pid]['full_name']+' · '+TEAMS[submitted[pid]['team']],max_selections=50)
+                st.warning('L’eliminazione dei voti selezionati è definitiva. Esporta prima il CSV se vuoi conservarne una copia.')
+                confirmation=st.text_input('Scrivi RESET per confermare')
+                password=st.text_input('Password Admin per autorizzare il reset',type='password')
+                if st.form_submit_button('Resetta i voti selezionati',type='primary'):
+                    removed=reset_selected_votes(db,selected_ids,password,confirmation)
+                    st.session_state.admin_reset_notice=f'Reset completato: {removed} voti eliminati. I partecipanti selezionati possono votare di nuovo.'
+                    st.rerun()
 except DatabaseError as exc:
     st.error({'SPONSORS_LOCKED':'Sponsor bloccati: è arrivato un voto definitivo.',
+              'RESET_NOT_AUTHORIZED':'Reset non autorizzato: verifica la password Admin o accedi nuovamente.',
+              'INVALID_RESET':'Seleziona almeno un partecipante e scrivi esattamente RESET.',
               'PARTICIPANT_LOCKED':'Il partecipante ha già votato e non è modificabile.'}.get(str(exc),str(exc)))

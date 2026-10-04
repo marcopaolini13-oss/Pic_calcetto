@@ -86,9 +86,9 @@ def lightbox(files,label,index,team,kit,scope):
         close_lightbox()
         st.rerun()
 
-def show_image(concept, label, team, kind='logo', name=None, sponsor=None, gallery=False):
-    files=images(concept,kind,name,sponsor)
-    scope=hashlib.sha1(f'{concept}|{kind}|{name}|{sponsor}|{files}'.encode()).hexdigest()[:12]
+def show_image(concept, label, team, kind='logo', name=None, sponsor=None, gallery=False,sponsor_label=None):
+    files=images(concept,kind,name,sponsor,sponsor_label)
+    scope=hashlib.sha1(f'{concept}|{kind}|{name}|{sponsor}|{sponsor_label}|{files}'.encode()).hexdigest()[:12]
     state_key='gallery_view_'+scope
     index=st.session_state.get(state_key,0)
     if not isinstance(index,int) or not 0<=index<len(files): index=0
@@ -115,14 +115,14 @@ def show_image(concept, label, team, kind='logo', name=None, sponsor=None, galle
     if opened and opened[0]==scope:
         lightbox(files,label,opened[1],team,kind=='kit',scope)
 
-def cards(options, choice_key, team, kind=None, name=None, sponsor=None):
+def cards(options, choice_key, team, kind=None, name=None, sponsor=None,sponsor_label=None):
     cols = st.columns(len(options))
     for col, (value,label) in zip(cols,options.items()):
         selected = st.session_state.get(choice_key) == value
         with col, st.container(border=True,key=f'asset_card_{"selected" if selected else "idle"}_{team}_{choice_key}_{value}'):
             st.subheader(('✓ ' if selected else '') + label)
             if kind:
-                show_image(value,label,team,kind,name,sponsor,kind=='kit')
+                show_image(value,label,team,kind,name,sponsor,kind=='kit',sponsor_label)
             action='Scegli questa proposta' if choice_key=='vote_name' else 'Scegli questa maglia' if choice_key=='vote_kit' else 'Scegli'
             st.button('Selezionato ✓' if selected else action, key=choice_key+'_'+value,
                       type='primary' if selected else 'secondary', width='stretch',

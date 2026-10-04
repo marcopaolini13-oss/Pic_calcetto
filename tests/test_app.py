@@ -38,16 +38,18 @@ def test_wizard_back_summary_submit_and_second_vote(team):
         at.button(key='vote_name_'+list(CONCEPTS[team])[2]).click().run()
         chosen=at.session_state['vote_name']
         button(at,'Avanti →').click().run()
+        assert at.session_state['vote_step']==2
+        at.button(key='vote_sponsor_sponsor-1').click().run()
+        button(at,'Avanti →').click().run()
         assert len([b for b in at.button if b.label=='Scegli questa maglia'])==3
         kit=list(CONCEPTS[team])[1]
         at.button(key='vote_kit_'+kit).click().run()
         button(at,'← Indietro').click().run()
         assert at.session_state['vote_name']==chosen
-        button(at,'Avanti →').click().run()
+        assert at.session_state['vote_sponsor']=='sponsor-1'
         button(at,'Avanti →').click().run()
         assert at.session_state['vote_step']==3
         assert not at.session_state.filtered_state.get('asset_open_lightbox'), at.session_state.filtered_state
-        at.button(key='vote_sponsor_sponsor-1').click().run()
         assert at.session_state['vote_kit']!=chosen
         assert 'vote_crest' not in at.session_state.filtered_state
         assert 'vote_concept' not in at.session_state.filtered_state
@@ -105,8 +107,10 @@ def test_admin_login_dashboard(monkeypatch):
         at.text_input[1].input('long-password-123')
         button(at,'Accedi').click().run(timeout=15)
         assert not at.exception
-        assert len(at.tabs)==4
+        assert len(at.tabs)==5
         assert at.metric[0].value=='1'
+        button(at,'Esci da Admin').click().run()
+        assert not at.tabs and not at.exception
 
 def test_missing_config(monkeypatch):
     monkeypatch.delenv('SUPABASE_URL',raising=False)

@@ -9,7 +9,8 @@ from src.config import ROOT
 
 LOG=logging.getLogger(__name__)
 EXTENSIONS={'.jpg','.jpeg','.png','.webp','.avif'}
-VIEW_LABELS={'front':'Frontale','back':'Retro','three_quarter':'Vista 3/4','detail':'Dettaglio',
+VIEW_LABELS={'front_with_sponsor':'Frontale · logo e sponsor','detail_with_sponsor':'Dettaglio · logo e sponsor',
+ 'front':'Frontale','back':'Retro','three_quarter':'Vista 3/4','detail':'Dettaglio',
  'detail_02':'Dettaglio 2','detail_03':'Dettaglio 3','back_02':'Retro · altra vista',
  'detail_with_crest':'Dettaglio · stemma applicato','front_with_crest':'Frontale · stemma applicato'}
 # Numbered source folders follow the six proposals in the user-specified order.
@@ -34,7 +35,7 @@ def configured_assets():
    for view in data['kits'].get(KIT_ASSIGNMENTS.get(concept),[])]}
   for concept,record in data['logos'].items()}
 
-def image_paths(concept,kind='logo',name=None,sponsor=None):
+def image_paths(concept,kind='logo',name=None,sponsor=None,sponsor_label=None):
  configured=configured_assets().get(concept,{})
  if kind=='logo':
   expected=configured.get('logo',ROOT/'assets'/'logos'/concept/'logo.jpeg')
@@ -45,7 +46,7 @@ def image_paths(concept,kind='logo',name=None,sponsor=None):
  # A selected name is also the selected crest. Never show a generic kit crest
  # when a different logo was chosen in Step 1.
  if name in KIT_ASSIGNMENTS:
-  from src.kit_preview import preview
+  from src.kit_preview import preview,with_sponsor
   logos=image_paths(name,'logo')
   priority={view:i for i,view in enumerate(VIEW_LABELS)}
   original=sorted((p for p in (ROOT/'assets'/'kits'/concept).glob('*') if p.suffix.lower() in EXTENSIONS and p.is_file()),key=lambda p:(priority.get(p.stem,99),p.name))
@@ -55,7 +56,10 @@ def image_paths(concept,kind='logo',name=None,sponsor=None):
    if specific: return specific+original
   try:
    if not logos: raise OSError('Selected logo missing')
-   return preview(name,concept,logos[0])+original
+   rendered=preview(name,concept,logos[0])
+   if sponsor_label:
+    rendered=with_sponsor(rendered[0],sponsor_label)
+   return rendered+original
   except (OSError,ValueError):
    LOG.warning('Dynamic preview unavailable: logo=%s kit=%s',name,concept)
    return original

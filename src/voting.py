@@ -48,28 +48,32 @@ def wizard(db, person):
         st.error('Paolo deve configurare tre sponsor attivi per questa squadra.')
         return
     # Upgrade an existing draft from the previous combined-concept flow.
-    if st.session_state.get('vote_flow_version')!=3:
+    if st.session_state.get('vote_flow_version')!=4:
         previous=st.session_state.pop('vote_concept',None)
         if previous in concepts:
             st.session_state.vote_kit=previous
         st.session_state.pop('vote_crest',None)
         st.session_state.vote_step=1
         st.session_state.vote_confirm=False
-        st.session_state.vote_flow_version=3
+        st.session_state.vote_flow_version=4
     step = min(4,max(1,st.session_state.get('vote_step',1)))
     st.subheader('Stai votando per ' + TEAMS[team])
     st.progress(step/4, text=f'Step {step} di 4')
-    labels = ['Nome + logo','Maglia','Sponsor','Riepilogo e conferma']
+    labels = ['Nome + logo','Sponsor','Maglia','Riepilogo e conferma']
     st.header(labels[step-1])
-    keys = ['vote_name','vote_kit','vote_sponsor']
+    keys = ['vote_name','vote_sponsor','vote_kit']
     if step<=3:
         if step==1:
-            st.caption('Scegli nome e logo insieme. La maglia si sceglie al prossimo step.')
-        if step==2:
-            st.caption('Scegli lo stile della maglia. Le preview applicano il logo '+concepts[st.session_state['vote_name']]+'.')
-        cards(sponsors if step==3 else concepts,keys[step-1],team,
-              None if step==3 else 'kit' if step==2 else 'logo',
-              st.session_state.get('vote_name'),st.session_state.get('vote_sponsor'))
+            st.caption('Scegli nome e logo insieme, poi lo sponsor e infine la maglia.')
+        if step==3:
+            if st.session_state.get('vote_name') not in concepts or st.session_state.get('vote_sponsor') not in sponsors:
+                navigate(2);st.rerun()
+            st.caption('Tutte le maglie mostrano il logo '+concepts[st.session_state['vote_name']]
+                       +' e lo sponsor '+sponsors[st.session_state['vote_sponsor']]+'.')
+        cards(sponsors if step==2 else concepts,keys[step-1],team,
+              None if step==2 else 'kit' if step==3 else 'logo',
+              st.session_state.get('vote_name'),st.session_state.get('vote_sponsor'),
+              sponsors.get(st.session_state.get('vote_sponsor')))
         left,right = st.columns(2)
         left.button('← Indietro',disabled=step==1,key=f'back_{step}',on_click=navigate,args=(step-1,))
         right.button('Avanti →', type='primary',disabled=not st.session_state.get(keys[step-1]),
@@ -78,13 +82,13 @@ def wizard(db, person):
     if not all(st.session_state.get(k) for k in keys):
         st.session_state.vote_step=1
         st.rerun()
-    name,kit,sponsor = [st.session_state[k] for k in keys]
+    name,sponsor,kit = [st.session_state[k] for k in keys]
     if name not in concepts or kit not in concepts:
         st.session_state.vote_step=1
         st.rerun()
     if sponsor not in sponsors:
         st.warning('Lo sponsor non è più disponibile. Selezionalo nuovamente.')
-        st.session_state.vote_step=3
+        st.session_state.vote_step=2
         st.session_state.pop('vote_sponsor',None)
         st.rerun()
     st.write('**Squadra:** ' + TEAMS[team])
@@ -96,7 +100,7 @@ def wizard(db, person):
             show_image(name,concepts[name],team)
         with b:
             st.write('**Maglia scelta:** '+concepts[kit])
-            show_image(kit,concepts[kit],team,'kit',name,sponsor,True)
+            show_image(kit,concepts[kit],team,'kit',name,sponsor,True,sponsors[sponsor])
             st.write('**Sponsor scelto:** '+sponsors[sponsor])
     st.warning('ATTENZIONE: dopo la conferma non sarà più possibile modificare il voto.')
     confirm=st.checkbox('Confermo di voler inviare definitivamente il mio voto.',key='vote_confirm')

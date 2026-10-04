@@ -21,10 +21,17 @@ def verify_password(password, encoded):
     except (ValueError, TypeError):
         return False
 
+def credential_signature():
+    return hashlib.sha256((secret('ADMIN_USERNAME','Paolo')+'|'+secret('ADMIN_PASSWORD_HASH')).encode()).hexdigest()
+
 def require_admin():
-    if st.session_state.get('admin_until', 0) > time.time():
+    if (st.session_state.get('admin_until', 0) > time.time()
+            and st.session_state.get('admin_signature')==credential_signature()
+            and secret('ADMIN_PASSWORD_HASH')):
         if st.sidebar.button('Esci da Admin'):
             st.session_state.pop('admin_until', None)
+            st.session_state.pop('admin_signature', None)
+            st.rerun()
             st.rerun()
         return
     st.title('Admin · Paolo')
@@ -40,6 +47,7 @@ def require_admin():
             st.error('Attendi qualche secondo prima di riprovare.')
         elif hmac.compare_digest(username, secret('ADMIN_USERNAME', 'Paolo')) and verify_password(password, secret('ADMIN_PASSWORD_HASH')):
             st.session_state.admin_until = time.time() + 3600
+            st.session_state.admin_signature = credential_signature()
             st.rerun()
         else:
             st.session_state.login_retry_at = time.time() + 5

@@ -3,8 +3,8 @@ import io
 from PIL import Image, ImageDraw
 from src.assets import image_paths
 
-def images(concept, kind='logo', name=None, sponsor=None):
-    return image_paths(concept,kind,name,sponsor)
+def images(concept, kind='logo', name=None, sponsor=None,sponsor_label=None):
+    return image_paths(concept,kind,name,sponsor,sponsor_label)
 
 def placeholder(label, team, kit=False):
     img = Image.new('RGB', (640, 480), '#18263b')
