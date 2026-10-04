@@ -11,6 +11,11 @@ CONCEPTS = {
     'RDM': {'rdm_fc': 'RDM F.C.', 'rdm_world': 'RDM WORLD', 'rdm_internazionale': 'RDM INTERNAZIONALE'},
 }
 
+KIT_NAMES = {
+    'energetici_fc': 'CHARON', 'renewables': 'ELVES', 'energentus': 'SPECTRUM',
+    'rdm_fc': 'CHARON', 'rdm_world': 'ELVES', 'rdm_internazionale': 'SPECTRUM',
+}
+
 def secret(name, default=''):
     try:
         return str(st.secrets.get(name, os.getenv(name, default)))

@@ -1,6 +1,6 @@
 """Readable result data; no database writes."""
 from collections import Counter
-from src.config import TEAMS,CONCEPTS
+from src.config import TEAMS,CONCEPTS,KIT_NAMES
 
 def ranking(votes,options,field):
     counts=Counter(v[field] for v in votes)
@@ -16,5 +16,5 @@ def vote_details(votes,people,sponsors):
              'Squadra':TEAMS[v['team']],
              'Nome e logo':CONCEPTS[v['team']].get(v['team_name_choice'],v['team_name_choice']),
              'Sponsor':sponsor_names.get(v['sponsor_id'],'Sponsor non disponibile'),
-             'Maglia':CONCEPTS[v['team']].get(v['kit_choice'],v['kit_choice']),
+             'Maglia':KIT_NAMES.get(v['kit_choice'],v['kit_choice']),
              'Data voto (UTC)':v.get('submitted_at','')} for v in votes]

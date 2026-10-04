@@ -35,7 +35,7 @@ def test_rankings_include_zero_choices_ties_and_details():
     assert results==[{'Scelta':'ENERGENTUS','Voti':1,'Percentuale':'100.0%'},
                      {'Scelta':'RENEWABLES','Voti':0,'Percentuale':'0.0%'}]
     detail=vote_details(votes,[{'id':'p1','full_name':'Test'}],[{'id':'s1','sponsor_name':'Sponsor Test'}])[0]
-    assert detail['Nome e logo']=='ENERGENTUS' and detail['Maglia']=='RENEWABLES'
+    assert detail['Nome e logo']=='ENERGENTUS' and detail['Maglia']=='ELVES'
     assert detail['Sponsor']=='Sponsor Test'
     assert ranking([],{'a':'A'},'kit_choice')[0]['Percentuale']=='0.0%'
 

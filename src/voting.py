@@ -1,5 +1,5 @@
 import streamlit as st
-from src.config import CONCEPTS, TEAMS
+from src.config import CONCEPTS, TEAMS, KIT_NAMES
 from src.ui import cards, show_image
 from src.database import DatabaseError
 from src import contest_reads
@@ -70,7 +70,8 @@ def wizard(db, person):
                 navigate(2);st.rerun()
             st.caption('Tutte le maglie mostrano il logo '+concepts[st.session_state['vote_name']]
                        +' e lo sponsor '+sponsors[st.session_state['vote_sponsor']]+'.')
-        cards(sponsors if step==2 else concepts,keys[step-1],team,
+        options=sponsors if step==2 else {key:KIT_NAMES[key] for key in concepts} if step==3 else concepts
+        cards(options,keys[step-1],team,
               None if step==2 else 'kit' if step==3 else 'logo',
               st.session_state.get('vote_name'),st.session_state.get('vote_sponsor'),
               sponsors.get(st.session_state.get('vote_sponsor')))
@@ -99,8 +100,8 @@ def wizard(db, person):
             st.write('**Nome/logo scelto:** '+concepts[name])
             show_image(name,concepts[name],team)
         with b:
-            st.write('**Maglia scelta:** '+concepts[kit])
-            show_image(kit,concepts[kit],team,'kit',name,sponsor,True,sponsors[sponsor])
+            st.write('**Maglia scelta:** '+KIT_NAMES[kit])
+            show_image(kit,KIT_NAMES[kit],team,'kit',name,sponsor,True,sponsors[sponsor])
             st.write('**Sponsor scelto:** '+sponsors[sponsor])
     st.warning('ATTENZIONE: dopo la conferma non sarà più possibile modificare il voto.')
     confirm=st.checkbox('Confermo di voler inviare definitivamente il mio voto.',key='vote_confirm')

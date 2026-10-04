@@ -1,6 +1,6 @@
 import streamlit as st
 from src.auth import require_admin
-from src.config import TEAMS, CONCEPTS
+from src.config import TEAMS, CONCEPTS, KIT_NAMES
 from src.database import Database, DatabaseError
 from src.ui import style
 from src.utils import csv_bytes
@@ -83,6 +83,7 @@ try:
                     with col:
                         st.subheader(title)
                         options={s['id']:s['sponsor_name'] for s in sponsors if s['team']==team} if field=='sponsor_id' else CONCEPTS[team]
+                        if field=='kit_choice':options={key:KIT_NAMES[key] for key in CONCEPTS[team]}
                         rows=ranking(team_votes,options,field)
                         if team_votes and rows:
                             best=rows[0]['Voti']
@@ -100,7 +101,8 @@ try:
         participant_map={p['id']:p['full_name'] for p in people}
         sponsor_map={s['id']:s['sponsor_name'] for s in sponsors}
         export=[{**v,'full_name':participant_map.get(v['participant_id'],''),
-                 'sponsor_name':sponsor_map.get(v['sponsor_id'],'')} for v in votes]
+                 'sponsor_name':sponsor_map.get(v['sponsor_id'],''),
+                 'kit_model':KIT_NAMES.get(v['kit_choice'],v['kit_choice'])} for v in votes]
         st.download_button('ESPORTA RISULTATI CSV',csv_bytes(export),file_name='favero_voti.csv',mime='text/csv',disabled=not votes)
         st.caption('Il CSV contiene voti definitivi e nominativi. Conservalo in un archivio aziendale riservato.')
     with reset_tab:

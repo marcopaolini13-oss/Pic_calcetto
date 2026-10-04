@@ -4,7 +4,7 @@ from streamlit.testing.v1 import AppTest
 from src.auth import hash_password, verify_password
 from src.database import DatabaseError
 from src.utils import csv_bytes
-from src.config import CONCEPTS
+from src.config import CONCEPTS,KIT_NAMES
 
 class FakeDatabase:
     def __init__(self, team='ENERGETICI'):
@@ -59,7 +59,7 @@ def test_wizard_back_summary_submit_and_second_vote(team):
         button(at,'Avanti →').click().run()
         assert at.session_state['vote_step']==4
         assert any('**Nome/logo scelto:** '+CONCEPTS[team][chosen] in m.value for m in at.markdown)
-        assert any('**Maglia scelta:** '+CONCEPTS[team][kit] in m.value for m in at.markdown)
+        assert any('**Maglia scelta:** '+KIT_NAMES[kit] in m.value for m in at.markdown)
         assert button(at,'CONFERMA DEFINITIVAMENTE').disabled
         at.checkbox[0].check().run()
         button(at,'← MODIFICA LE SCELTE').click().run()
